@@ -2,12 +2,24 @@
 	{
 		"book_id": "doc-hi6-operation",
 		"ver_id": "master",
+		"title": "Hi6 조작설명서",
+		"shelves": [ "Hi6 로봇제어기" ]
+	},
+	{
+		"book_id": "doc-hi6-operation",
+		"ver_id": "english",
 		"title": "Hi6 Operation Manual",
 		"shelves": [ "Hi6 Robot Controller" ]
 	},
 	{
 		"book_id": "doc-hrscript",
 		"ver_id": "master",
+		"title": "Hi6 기능설명서 - HRScript",
+		"shelves": [ "Hi6 로봇제어기" ]
+	},
+	{
+		"book_id": "doc-hrscript",
+		"ver_id": "english",
 		"title": "Hi6 Function Manual - HRScript",
 		"shelves": [ "Hi6 Robot Controller" ]
 	}
