@@ -22,5 +22,29 @@
 		"ver_id": "english",
 		"title": "Hi6 Function Manual - HRScript",
 		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "quality-assurance",
+		"ver_id": "korean",
+		"title": "품질 보증",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "quality-assurance",
+		"ver_id": "english",
+		"title": "Quality Assurance",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "rules-on-occupational-safety-and-health-standards",
+		"ver_id": "korean",
+		"title": "산업안전보건기준에 관한 규칙",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "rules-on-occupational-safety-and-health-standards",
+		"ver_id": "english",
+		"title": "Rules on Occupational Safety and Health Standards",
+		"shelf_ids": [ "hi6-cont" ]
 	}
 ]
