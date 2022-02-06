@@ -24,6 +24,21 @@
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 산업용 통신",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "private"
+
+	},
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - Industrial communication",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "private"
+	},
+	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
 		"ver_id": "korean",
 		"title": "산업안전보건기준에 관한 규칙",
