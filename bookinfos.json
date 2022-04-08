@@ -67,5 +67,11 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 스폿 기능 설명서",
 		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-add-axes",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 부가축 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
 	}
 ]
