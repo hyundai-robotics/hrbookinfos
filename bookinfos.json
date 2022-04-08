@@ -61,5 +61,11 @@
 		"ver_id": "english",
 		"title": "Quality Assurance",
 		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-spot-weld",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 스폿 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
 	}
 ]
