@@ -1,4 +1,4 @@
-[
+﻿[
 	{
 		"book_id": "doc-hi6-operation",
 		"ver_id": "korean",
@@ -73,12 +73,125 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 부가축 기능 설명서",
 		"shelf_ids": [ "hi6-cont" ]
-	}
-	,
+	},
 	{
 		"book_id": "doc-arc-weld",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 아크 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-cobot-maintenance",
+		"ver_id": "korean",
+		"title": "협동로봇 보수 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-cobot-maintenance",
+		"ver_id": "english",
+		"title": "Maintenance Manual for Collaborative Robot",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-cobot-safety-function",
+		"ver_id": "korean",
+		"title": "협동로봇 안전기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-cobot-safety-function",
+		"ver_id": "english",
+		"title": "Safety Function Manual for Collaborative Robot",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-palletize",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 팔레타이즈 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-palletize",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Manual - Palletize",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-modbus",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 모드버스 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-modbus",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - Modbus",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-hi6s-maintenance",
+		"ver_id": "korean",
+		"title": "Hi6-S 제어기 보수 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-hi6s-maintenance",
+		"ver_id": "english",
+		"title": "Hi6-S Controller Maintenance Manual",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-sensor-sync",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 센서동기 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-program-reserve",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약실행 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-multi-task",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 멀티 태스킹 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-load-estimation",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 부하추정 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-auto-backup",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 자동 백업 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-high-load-mode",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 고부하 모드 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-pick-it-application",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - Pick-it 응용 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-key-signal-output",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 키 신호 출력 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-interrupt",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 인터럽트 기능 설명서",
 		"shelf_ids": [ "hi6-cont" ]
 	}
 ]
