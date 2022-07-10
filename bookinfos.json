@@ -39,6 +39,21 @@
 		"permission": "private"
 	},
 	{
+		"book_id": "doc-modbus",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 모드버스",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+
+	},
+	{
+		"book_id": "doc-modbus",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - Modbus",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
 		"ver_id": "korean",
 		"title": "산업안전보건기준에 관한 규칙",
