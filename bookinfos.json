@@ -94,12 +94,18 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 부가축 기능 설명서",
 		"shelf_ids": [ "hi6-cont" ]
-	}
-	,
+	},
 	{
 		"book_id": "doc-arc-weld",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 아크 기능 설명서",
 		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-hi5a-operation",
+		"ver_id": "korean",
+		"title": "Hi5a Robot Controller Operation Manual",
+		"shelf_ids": [ "hi5a-cont" ],
+		"url": "https://github.com/hyundai-robotics/doc-hi5a-operation/raw/korean/Hi5a-S210401OMKR9.pdf"
 	}
 ]
