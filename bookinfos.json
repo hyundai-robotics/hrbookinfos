@@ -109,7 +109,7 @@
 		"url": "https://github.com/hyundai-robotics/doc-hi5a-operation/raw/korean/Hi5a-S210401OMKR9.pdf"
 	},
 	{
-		"book_id": "doc-hi5a-operation",
+		"book_id": "doc-hi5a-cube-interference",
 		"ver_id": "korean",
 		"title": "Hi5a 로봇제어기 기능설명서 - CUBE 간섭금지",
 		"shelf_ids": [ "hi5a-cont" ],
