@@ -86,25 +86,25 @@
 	{
 		"book_id": "doc-spot-weld",
 		"ver_id": "korean",
-		"title": "Hi6 로봇제어기 기능설명서 - 스폿 기능 설명서(국문)",
+		"title": "Hi6 로봇제어기 기능설명서 - 스폿",
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
 		"book_id": "doc-spot-weld",
 		"ver_id": "english",
-		"title": "Hi6 로봇제어기 기능설명서 - 스폿 기능 설명서(영문)",
+		"title": "Hi6 Robot Controller Function Manual - spot",
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
 		"book_id": "doc-add-axes",
 		"ver_id": "korean",
-		"title": "Hi6 로봇제어기 기능설명서 - 부가축 기능 설명서",
+		"title": "Hi6 로봇제어기 기능설명서 - 부가축",
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
 		"book_id": "doc-arc-weld",
 		"ver_id": "korean",
-		"title": "Hi6 로봇제어기 기능설명서 - 아크 기능 설명서",
+		"title": "Hi6 로봇제어기 기능설명서 - 아크",
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
