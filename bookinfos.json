@@ -60,6 +60,14 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-hi6-embedded-plc",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 내장 PLC",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+
+	},
+	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
 		"ver_id": "korean",
 		"title": "산업안전보건기준에 관한 규칙",
