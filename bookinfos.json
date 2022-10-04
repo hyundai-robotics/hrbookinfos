@@ -1,8 +1,8 @@
 ﻿[
 	{
 		"book_id": "doc-hi6-operation",
-		"ver_id": "korean",
-		"title": "Hi6 로봇제어기 조작설명서",
+		"ver_id": "korean-tp600",
+		"title": "Hi6 로봇제어기 조작설명서 - TP600",
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
@@ -13,8 +13,8 @@
 	},
 	{
 		"book_id": "doc-hi6-operation",
-		"ver_id": "english",
-		"title": "Hi6 Robot Controller Operation Manual",
+		"ver_id": "english-tp600",
+		"title": "Hi6 Robot Controller Operation Manual - TP600",
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
