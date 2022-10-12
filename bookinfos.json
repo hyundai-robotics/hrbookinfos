@@ -116,6 +116,34 @@
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
+		"book_id": "page-product",
+		"ver_id": "korean",
+		"title": "제품 - 산업용로봇",
+		"shelf_ids": [ "common" ],
+		"url": "https://hyundai-robotics.com/product/product1.html"
+	},
+	{
+		"book_id": "page-product",
+		"ver_id": "english",
+		"title": "Product - Industrial Robot",
+		"shelf_ids": [ "common" ],
+		"url": "https://hyundai-robotics.com/english/product/product1.html"
+	},
+	{
+		"book_id": "page-brochure-catalog",
+		"ver_id": "korean",
+		"title": "브로슈어&카탈로그",
+		"shelf_ids": [ "common" ],
+		"url": "https://hyundai-robotics.com/publicity/publicity4.html"
+	},
+	{
+		"book_id": "page-brochure-catalog",
+		"ver_id": "english",
+		"title": "Brochures and catalogues",
+		"shelf_ids": [ "common" ],
+		"url": "https://hyundai-robotics.com/english/publicity/publicity4.html"
+	},
+	{
 		"book_id": "doc-hi5a-operation",
 		"ver_id": "korean",
 		"title": "Hi5a 로봇제어기 조작설명서",
