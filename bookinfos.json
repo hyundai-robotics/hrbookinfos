@@ -163,5 +163,19 @@
 		"title": "Hi5a 로봇제어기 기능설명서 - SoftJoint",
 		"shelf_ids": [ "hi5a-cont" ],
 		"url": "https://www.hyundai-industrialrobot.com/data/FAQ/211213/SoftJoint.pdf"
+	},
+	{
+		"book_id": "doc-cobot-safety-function",
+		"ver_id": "korean",
+		"title": "협동로봇 안전 기능 설명서",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-cobot-maintenance",
+		"ver_id": "korean",
+		"title": "협동로봇 보수 설명서",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
