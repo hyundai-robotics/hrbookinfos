@@ -116,6 +116,12 @@
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
+		"book_id": "doc-hi6-tp-app",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - Teach Pendant 앱(App)",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
 		"book_id": "page-product",
 		"ver_id": "korean",
 		"title": "제품 - 산업용로봇",
