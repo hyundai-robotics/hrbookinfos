@@ -18,6 +18,12 @@
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
+		"book_id": "doc-hi6-operation",
+		"ver_id": "english-tp630",
+		"title": "Hi6 Robot Controller Operation Manual - TP630",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
 		"book_id": "doc-hrscript",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 로봇언어 HRScript",
