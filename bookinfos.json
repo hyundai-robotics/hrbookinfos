@@ -188,6 +188,7 @@
 		"book_id": "doc-hi6-sdk",
 		"ver_id": "korean",
 		"title": "Hi6 SDK 설명서",
-		"shelf_ids": [ "hi6-cont" ]
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
