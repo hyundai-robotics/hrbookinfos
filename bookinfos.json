@@ -74,6 +74,12 @@
 
 	},
 	{
+		"book_id": "doc-multi-task",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 멀티태스킹",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
 		"ver_id": "korean",
 		"title": "산업안전보건기준에 관한 규칙",
