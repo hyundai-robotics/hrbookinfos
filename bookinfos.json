@@ -40,7 +40,7 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 산업용 통신",
 		"shelf_ids": [ "hi6-cont" ],
-		"permission": "private"
+		"permission": "public"
 
 	},
 	{
@@ -48,7 +48,7 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Industrial communication",
 		"shelf_ids": [ "hi6-cont" ],
-		"permission": "private"
+		"permission": "public"
 	},
 	{
 		"book_id": "doc-modbus",
