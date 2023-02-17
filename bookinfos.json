@@ -202,5 +202,12 @@
 		"title": "Hi6 SDK 설명서",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-sensor-sync",
+		"ver_id": "korean",
+		"title": "Hi6 센서동기 기능설명서",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
