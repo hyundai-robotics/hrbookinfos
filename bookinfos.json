@@ -134,6 +134,12 @@
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
+		"book_id": "doc-arcsensing",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 아크센싱",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
 		"book_id": "doc-hi6-tp-app",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - Teach Pendant 앱(App)",
