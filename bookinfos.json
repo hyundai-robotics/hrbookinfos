@@ -223,7 +223,7 @@
 		"permission": "public"
 	},
 	{
-		"book_id": "doc-loadestimation",
+		"book_id": "doc-load-estimation",
 		"ver_id": "korean",
 		"title": "Hi6 부하추정 기능설명서",
 		"shelf_ids": [ "hi6-cont" ],
