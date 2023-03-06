@@ -140,7 +140,7 @@
 		"shelf_ids": [ "hi6-cont" ]
     },
     {
-		"book_id": "doc-doc-positioner-sync",
+		"book_id": "doc-positioner-sync",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 포지셔너 동기",
 		"shelf_ids": [ "hi6-cont" ],
