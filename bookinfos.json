@@ -110,6 +110,13 @@
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
+		"book_id": "doc-hi6-auto-backup",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 자동 백업",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-spot-weld",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 스폿",
