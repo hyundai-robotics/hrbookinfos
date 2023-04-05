@@ -138,8 +138,8 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 아크센싱",
 		"shelf_ids": [ "hi6-cont" ]
-    },
-    {
+   },
+   {
 		"book_id": "doc-positioner-sync",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 포지셔너 동기",
@@ -229,25 +229,32 @@
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
-    {
-        "book_id": "doc-load-estimation",
-        "ver_id": "korean",
-        "title": "Hi6 부하추정 기능설명서",
-        "shelf_ids": [ "hi6-cont" ],
-        "permission": "public"
-    },
-    {
-	"book_id": "doc-reserved-program-execution",
-	"ver_id": "korean",
-	"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약 실행",
-	"shelf_ids": [ "hi6-cont" ],
-	"permission": "public"
-    },
-    {
-	"book_id": "doc-svtool-change",
-	"ver_id": "korean",
-	"title": "Hi6 로봇제어기 기능설명서 - 서보툴 체인지",
-	"shelf_ids": [ "hi6-cont" ],
-	"permission": "public"
-    }
+	{
+		"book_id": "doc-load-estimation",
+		"ver_id": "korean",
+		"title": "Hi6 부하추정 기능설명서",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-reserved-program-execution",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약 실행",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-svtool-change",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 서보툴 체인지",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-hi6-cube-interference",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 큐브간섭검지",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	}
 ]
