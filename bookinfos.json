@@ -243,13 +243,6 @@
 		"permission": "public"
 	},
 	{
-		"book_id": "doc-brake-check",
-		"ver_id": "korean",
-		"title": "Hi6 로봇제어기 기능설명서 -  브레이크 고장 검지",
-		"shelf_ids": [ "hi6-cont" ],
-		"permission": "public"
-	},
-	{
 		"book_id": "doc-load-estimation",
 		"ver_id": "korean",
 		"title": "Hi6 부하추정 기능설명서",
