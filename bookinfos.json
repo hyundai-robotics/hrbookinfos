@@ -86,6 +86,13 @@
 
 	},
 	{
+		"book_id": "doc-hi6-embedded-plc2",
+		"ver_id": "english",
+		"title": "Function Manual - Embedded PLC",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-multi-task",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 멀티태스킹",
