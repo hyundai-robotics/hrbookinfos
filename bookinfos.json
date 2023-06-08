@@ -243,6 +243,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-hi6-sdk",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - SDK",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-sensor-sync",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 -  센서동기",
