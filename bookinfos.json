@@ -26,13 +26,25 @@
 	{
 		"book_id": "doc-hi6-maintenance",
 		"ver_id": "korean",
-		"title": "Hi6 로봇제어기 보수설명서",
+		"title": "Hi6-N 로봇제어기 보수설명서",
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
 		"book_id": "doc-hi6-maintenance",
 		"ver_id": "english",
-		"title": "Hi6 Robot Controller Maintenance Manual",
+		"title": "Hi6-N Robot Controller Maintenance Manual",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-hi6-t-maintenance",
+		"ver_id": "korean",
+		"title": "Hi6-T 로봇제어기 보수설명서",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
+		"book_id": "doc-hi6-t-maintenance",
+		"ver_id": "english",
+		"title": "Hi6-T Robot Controller Maintenance Manual",
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
