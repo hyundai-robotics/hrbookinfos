@@ -100,7 +100,7 @@
 	{
 		"book_id": "doc-hi6-embedded-plc",
 		"ver_id": "english",
-		"title": "Function Manual - Embedded PLC",
+		"title": "Hi6 Robot Controller Function Manual - Embedded PLC",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
@@ -232,6 +232,18 @@
 		"title": "Hi5a 로봇제어기 기능설명서 - SoftJoint",
 		"shelf_ids": [ "hi5a-cont" ],
 		"url": "https://www.hyundai-industrialrobot.com/data/FAQ/211213/SoftJoint.pdf"
+	},
+	{
+		"book_id": "doc-hi5a-task-daemon",
+		"ver_id": "korean",
+		"title": "Hi5a 로봇제어기 기능설명서 - 태스크 데몬 (Task Daemon)",
+		"shelf_ids": [ "hi5a-cont" ]
+	},
+	{
+		"book_id": "doc-hi5a-task-daemon",
+		"ver_id": "english",
+		"title": "Hi5a Robot Controller Function Manual - Task Daemon",
+		"shelf_ids": [ "hi5a-cont" ]
 	},
 	{
 		"book_id": "doc-cobot-safety-function",
