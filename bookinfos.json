@@ -314,5 +314,12 @@
 		"title": "Hi6 마스터링 기능설명서",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-hi6-mastering",
+		"ver_id": "english",
+		"title": "Hi6 Mastering Function Manual",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
