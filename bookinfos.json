@@ -325,6 +325,14 @@
 		"book_id": "doc-hi6-open-api",
 		"ver_id": "korean",
 		"title": "Hi6 Open API 설명서",
-		"shelf_ids": [ "hi6-cont" ]
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-hi6-open-api",
+		"ver_id": "english",
+		"title": "Hi6 Open API description",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
