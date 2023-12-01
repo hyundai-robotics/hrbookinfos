@@ -331,7 +331,7 @@
 	{
 		"book_id": "doc-hi6-open-api",
 		"ver_id": "english",
-		"title": "Hi6 Open API description",
+		"title": "Hi6 Open API Manual",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	}
