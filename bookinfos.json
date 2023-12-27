@@ -338,7 +338,14 @@
 	{
 		"book_id": "doc-safespace2.0",
 		"ver_id": "korean",
-		"title": "SafeSpace 2.0 Manual",
+		"title": "SafeSpace2.0 설명서",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-safespace2.0",
+		"ver_id": "english",
+		"title": "SafeSpace2.0 Manual",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	}
