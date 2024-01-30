@@ -348,5 +348,12 @@
 		"title": "SafeSpace2.0 Manual",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-cooperation",
+		"ver_id": "korean",
+		"title": "Hi6 협조제어",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
