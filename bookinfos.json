@@ -184,6 +184,12 @@
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
+		"book_id": "doc-hi6-tp-app",
+		"ver_id": "english",
+		"title": Hi6 Robot Controller Function Manual- Teach Pendant App",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
 		"book_id": "page-product",
 		"ver_id": "korean",
 		"title": "제품 - 산업용로봇",
