@@ -372,7 +372,7 @@
     {
 		"book_id": "doc-endless",
 		"ver_id": "korean",
-		"title": "Hi6 엔드리스",
+		"title": "Hi6 로봇제어기 기능설명서 - 엔드리스",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	}
