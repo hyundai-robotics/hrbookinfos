@@ -361,7 +361,7 @@
 		"title": "Hi6 협조제어",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
-	}
+	},
 	{
 		"book_id": "doc-us220-maintenance",
 		"ver_id": "korean",
