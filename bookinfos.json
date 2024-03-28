@@ -379,7 +379,7 @@
 	{
         "book_id": "doc-us220-maintenance_EN",
         "ver_id": "english",
-        "title": "doc-US220-maintenance",
+        "title": "Manipulator Maintenance Manual - US220",
         "shelf_ids": [ "us220-cont" ],
         "permission": "public"
     }
