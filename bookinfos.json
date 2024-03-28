@@ -184,6 +184,12 @@
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
+		"book_id": "doc-hi6-tp-app",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual- Teach Pendant App",
+		"shelf_ids": [ "hi6-cont" ]
+	},
+	{
 		"book_id": "page-product",
 		"ver_id": "korean",
 		"title": "제품 - 산업용로봇",
@@ -335,11 +341,53 @@
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
+	{
+		"book_id": "doc-safespace2.0",
+		"ver_id": "korean",
+		"title": "SafeSpace2.0 설명서",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-safespace2.0",
+		"ver_id": "english",
+		"title": "SafeSpace2.0 Manual",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-cooperation",
+		"ver_id": "korean",
+		"title": "Hi6 협조제어",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+    {
+		"book_id": "doc-endless",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 엔드리스",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+        "book_id": "doc-us220-maintenance",
+        "ver_id": "korean",
+        "title": "US220 보수설명서",
+        "shelf_ids": [ "us220-cont" ],
+        "permission": "public"
+    },
+	{
+        "book_id": "doc-us220-maintenance_EN",
+        "ver_id": "english",
+        "title": "Manipulator Maintenance Manual - US220",
+        "shelf_ids": [ "us220-cont" ],
+        "permission": "public"
+    },
     {
         "book_id": "doc-hi6-pickit",
-        "ver_id": "korean",
-        "title": "Hi6 pick-it 플러그인 설명서",
-        "shelf_ids": [ "hi6-cont" ],
-        "permission": "public"
-    }
+		"ver_id": "korean",
+		"title": "Hi6 pick-it 플러그인 설명서",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	}
 ]
