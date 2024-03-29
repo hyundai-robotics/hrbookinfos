@@ -386,7 +386,14 @@
     {
         "book_id": "doc-hi6-pickit",
 		"ver_id": "korean",
-		"title": "Hi6 pick-it 플러그인 설명서",
+		"title": "Hi6 Pick-it 플러그인 설명서",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+    {
+        "book_id": "doc-hi6-pickit",
+		"ver_id": "english",
+		"title": "Hi6 Pick-it Plugin Manual",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	}
