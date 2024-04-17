@@ -396,5 +396,12 @@
 		"title": "Hi6 Pick-it Plugin Manual",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
-	}
+	},
+	{
+        "book_id": "doc-hs220-maintenance",
+        "ver_id": "korean",
+        "title": "HS220 보수설명서",
+        "shelf_ids": [ "hs220-cont" ],
+        "permission": "public"
+    }
 ]
