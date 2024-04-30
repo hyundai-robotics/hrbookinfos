@@ -410,5 +410,19 @@
         "title": "Manipulator Maintenance Manual - HS220",
         "shelf_ids": [ "hs220-cont" ],
         "permission": "public"
+    },
+	{
+        "book_id": "doc-ha006B-maintenance",
+        "ver_id": "korean",
+        "title": "HA006B 보수설명서",
+        "shelf_ids": [ "ha006B-cont" ],
+        "permission": "public"
+    },
+	{
+        "book_id": "doc-ha006B-maintenance_EN",
+        "ver_id": "english",
+        "title": "Manipulator Maintenance Manual - HA006B",
+        "shelf_ids": [ "ha006B-cont" ],
+        "permission": "public"
     }
 ]
