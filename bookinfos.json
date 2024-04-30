@@ -403,5 +403,12 @@
         "title": "HS220 보수설명서",
         "shelf_ids": [ "hs220-cont" ],
         "permission": "public"
+    },
+	{
+        "book_id": "doc-hs220-maintenance_EN",
+        "ver_id": "english",
+        "title": "Manipulator Maintenance Manual - HS220",
+        "shelf_ids": [ "hs220-cont" ],
+        "permission": "public"
     }
 ]
