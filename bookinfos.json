@@ -424,5 +424,19 @@
         "title": "Manipulator Maintenance Manual - HA006B",
         "shelf_ids": [ "ha006B-cont" ],
         "permission": "public"
+    },
+	{
+        "book_id": "doc-hh050-maintenance",
+        "ver_id": "korean",
+        "title": "HH050 보수설명서",
+        "shelf_ids": [ "hh050-cont" ],
+        "permission": "public"
+    },
+	{
+        "book_id": "doc-hh050-maintenance_EN",
+        "ver_id": "english",
+        "title": "Manipulator Maintenance Manual - HH050",
+        "shelf_ids": [ "hh050-cont" ],
+        "permission": "public"
     }
 ]
