@@ -452,5 +452,19 @@
         "title": "Manipulator Maintenance Manual - HH020",
         "shelf_ids": [ "hh020-cont" ],
         "permission": "public"
+    },
+	{
+        "book_id": "doc-hh7-maintenance",
+        "ver_id": "korean",
+        "title": "HH7 보수설명서",
+        "shelf_ids": [ "hh7-cont" ],
+        "permission": "public"
+    },
+	{
+        "book_id": "doc-hh7-maintenance_EN",
+        "ver_id": "english",
+        "title": "Manipulator Maintenance Manual - HH7",
+        "shelf_ids": [ "hh7-cont" ],
+        "permission": "public"
     }
 ]
