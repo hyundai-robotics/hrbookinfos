@@ -466,5 +466,12 @@
         "title": "Manipulator Maintenance Manual - HH7",
         "shelf_ids": [ "hh7-cont" ],
         "permission": "public"
+    },
+	{
+        "book_id": "doc-hr-simulation-gz",
+        "ver_id": "english",
+        "title": "Hi6 controller ROS2 integration Manual",
+        "shelf_ids": [ "hi6-cont" ],
+        "permission": "public"
     }
 ]
