@@ -480,5 +480,12 @@
 	"title": "Hi6 로봇제어기 기능설명서 - NTP 시간 동기화",
 	"shelf_ids": [ "hi6-cont" ],
 	"permission": "public"
+    },
+	 {
+	"book_id": "doc-hi6-ntp-time-synchronization",
+	"ver_id": "english",
+	"title": "Hi6 Robot Controller Operation Manual - NTP time synchronization",
+	"shelf_ids": [ "hi6-cont" ],
+	"permission": "public"
     }
 ]
