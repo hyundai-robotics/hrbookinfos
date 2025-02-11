@@ -494,5 +494,12 @@
 		"title": "Hi6 로봇제어기 기능설명서 - 모노펌프 실러건",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-user-defined-error-warn",
+		"ver_id": "korean",
+		"title": "Hi6 로봇제어기 기능설명서 - 사용자 정의 에러/경고",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
