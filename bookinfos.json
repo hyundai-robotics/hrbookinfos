@@ -507,5 +507,12 @@
 		"title": "Hi6 로봇제어기 기능설명서 - 래더 편집 (Ladder Edit)",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-hi6-ladder-edit",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - Ladder Edit",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
