@@ -34,7 +34,7 @@
 		"ver_id": "main",
 		"title": "Hi6-N 로봇제어기 보수설명서 (PDF)",
 		"shelf_ids": [ "hi6-cont" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi6-maintenance/blob/main/Hi6-N250306CMKR8.pdf"
+		"url": "https://github.com/hyundai-robotics/doc-hi6-maintenance/raw/main/Hi6-N250306CMKR8.pdf"
 	},
 	{
 		"book_id": "doc-hi6-n-maintenance",
