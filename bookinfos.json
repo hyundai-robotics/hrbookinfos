@@ -191,6 +191,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-positioner-sync",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - positioner sync.",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-hi6-tp-app",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - Teach Pendant 앱(App)",
