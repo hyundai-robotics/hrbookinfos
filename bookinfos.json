@@ -550,5 +550,12 @@
 		"title": "Hi6 Force Control with Sensors",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-ros2-driver",
+		"ver_id": "korean",
+		"title": "HD현대로보틱스 ROS2 드라이버 매뉴얼",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
