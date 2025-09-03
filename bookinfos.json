@@ -564,5 +564,11 @@
 		"title": "Hi6a-N 로봇제어기 보수설명서",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-hi6-operation",
+		"ver_id": "korean-hi6a-tp630",
+		"title": "Hi6a 로봇제어기 조작설명서 - TP630",
+		"shelf_ids": [ "hi6-cont" ]
 	}
 ]
