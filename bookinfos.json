@@ -564,5 +564,12 @@
 		"title": "Hi6a-N 로봇제어기 보수설명서",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-userDIO-ExtensionDIO",
+		"ver_id": "korean",
+		"title": "Hi6a 로봇제어기 기능설명서 - 사용자DIO, 확장DIO",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
 	}
 ]
