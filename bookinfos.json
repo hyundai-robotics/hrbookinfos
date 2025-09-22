@@ -566,6 +566,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-userDIO-ExtensionDIO",
+		"ver_id": "english",
+		"title": "Hi6a Robot Controller Function Manual - User DIO, Extension DIO",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-hi6-operation",
 		"ver_id": "korean-hi6a-tp630",
 		"title": "Hi6a 로봇제어기 조작설명서 - TP630",
