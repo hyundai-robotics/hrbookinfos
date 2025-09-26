@@ -561,14 +561,14 @@
 	{
 		"book_id": "doc-userDIO-ExtensionDIO",
 		"ver_id": "korean",
-		"title": "Hi6a 로봇제어기 기능설명서 - 사용자DIO, 확장DIO",
+		"title": "Hi7 로봇제어기 기능설명서 - 사용자DIO, 확장DIO",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
 		"book_id": "doc-userDIO-ExtensionDIO",
 		"ver_id": "english",
-		"title": "Hi6a Robot Controller Function Manual - User DIO, Extension DIO",
+		"title": "Hi7 Robot Controller Function Manual - User DIO, Extension DIO",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
