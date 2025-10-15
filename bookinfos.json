@@ -552,6 +552,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-ros2-driver",
+		"ver_id": "english",
+		"title": "HD Hyundai Robotics ROS2 Driver Manual",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-hi6a-n-maintenance",
 		"ver_id": "korean",
 		"title": "Hi6a-N 로봇제어기 보수설명서",
