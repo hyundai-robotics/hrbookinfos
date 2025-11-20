@@ -606,5 +606,33 @@
 		"title": "Hi7-N 로봇제어기 조작설명서 (PDF)",
 		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi7-operation/raw/korean/Hi7-N251114OMKR1.pdf"
+	},
+	{
+		"book_id": "doc-hi7-maintenance",
+		"ver_id": "korean",
+		"title": "Hi7-N 로봇제어기 보수설명서 (PDF)",
+		"shelf_ids": [ "hi7-cont" ],
+		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/korean/Hi7-N251031MMKR1.pdf"
+	},
+	{
+		"book_id": "doc-hi7-maintenance",
+		"ver_id": "english",
+		"title": "Hi7-N Robot Controller Maintenance Manual (PDF) - English",
+		"shelf_ids": [ "hi7-cont" ],
+		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/english/Hi7-N251031MMEN1.pdf"
+	},
+	{
+		"book_id": "doc-hi7-maintenance",
+		"ver_id": "chinese",
+		"title": "Hi7-N Robot Controller Maintenance Manual (PDF) - Chinese",
+		"shelf_ids": [ "hi7-cont" ],
+		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/chinese/Hi7-N251031MMCN1.pdf"
+	},
+	{
+		"book_id": "doc-hi7-maintenance",
+		"ver_id": "german",
+		"title": "Hi7-N Robot Controller Maintenance Manual (PDF) - German",
+		"shelf_ids": [ "hi7-cont" ],
+		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/german/Hi7-N251031MMDE1.pdf"
 	}
 ]
