@@ -589,8 +589,22 @@
 	{
 		"book_id": "doc-hi7-operation",
 		"ver_id": "english",
-		"title": "Hi7-N Robot Cotroller Operation Manual (PDF)",
+		"title": "Hi7-N Robot Cotroller Operation Manual (PDF) - English",
 		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi7-operation/raw/english/Hi7-N251114OMEN1.pdf"
+	},
+	{
+		"book_id": "doc-hi7-operation",
+		"ver_id": "chinese",
+		"title": "Hi7-N Robot Cotroller Operation Manual (PDF) - Chinese",
+		"shelf_ids": [ "hi7-cont" ],
+		"url": "https://github.com/hyundai-robotics/doc-hi7-operation/raw/chinese/Hi7-N251114OMCN1.pdf"
+	},
+	{
+		"book_id": "doc-hi7-operation",
+		"ver_id": "korean",
+		"title": "Hi7-N 로봇제어기 조작설명서 (PDF)",
+		"shelf_ids": [ "hi7-cont" ],
+		"url": "https://github.com/hyundai-robotics/doc-hi7-operation/raw/korean/Hi7-N251114OMKR1.pdf"
 	}
 ]
