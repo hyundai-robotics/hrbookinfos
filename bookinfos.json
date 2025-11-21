@@ -634,5 +634,12 @@
 		"title": "Hi7-N Robot Controller Maintenance Manual (PDF) - German",
 		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/german/Hi7-N251031MMDE1.pdf"
+	},
+	{
+		"book_id": "doc-hi7-operation",
+		"ver_id": "german",
+		"title": "Hi7 Robot Controller Operation Manual - TP630 (German)",
+		"shelf_ids": [ "hi7-cont" ],
+		"permission": "public"
 	}
 ]
