@@ -72,7 +72,6 @@
 		"title": "Hi6 로봇제어기 기능설명서 - 산업용 통신",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
-
 	},
 	{
 		"book_id": "doc-industrial-communication",
@@ -667,6 +666,20 @@
 		"book_id": "doc-userDIO-ExtensionDIO",
 		"ver_id": "german",
 		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO (German)",
+		"shelf_ids": [ "hi7-cont" ],
+		"permission": "public"
+	}
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - 산업용 통신",
+		"shelf_ids": [ "hi7-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "english",
+		"title": "Hi7 Controller Fuction Manual - Industrial Communication",
 		"shelf_ids": [ "hi7-cont" ],
 		"permission": "public"
 	}
