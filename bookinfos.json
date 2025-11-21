@@ -655,5 +655,19 @@
 		"title": "Hi7 SafeSpace2.0 Manual - Chinese",
 		"shelf_ids": [ "hi7-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-userDIO-ExtensionDIO",
+		"ver_id": "chinese",
+		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO (Chinese)",
+		"shelf_ids": [ "hi7-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-userDIO-ExtensionDIO",
+		"ver_id": "german",
+		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO (German)",
+		"shelf_ids": [ "hi7-cont" ],
+		"permission": "public"
 	}
 ]
