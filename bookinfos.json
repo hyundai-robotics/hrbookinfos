@@ -641,5 +641,19 @@
 		"title": "Hi7 Robot Controller Operation Manual - TP630 (German)",
 		"shelf_ids": [ "hi7-cont" ],
 		"permission": "public"
+	},
+	{
+		"book_id": "doc-safespace2.0",
+		"ver_id": "german",
+		"title": "Hi7 SafeSpace2.0 Manual - German",
+		"shelf_ids": [ "hi7-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-safespace2.0",
+		"ver_id": "chinese",
+		"title": "Hi7 SafeSpace2.0 Manual - Chinese",
+		"shelf_ids": [ "hi7-cont" ],
+		"permission": "public"
 	}
 ]
