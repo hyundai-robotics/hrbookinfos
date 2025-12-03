@@ -328,6 +328,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-load-estimation",
+		"ver_id": "english",
+		"title": "Hi6 load estimation Function Manual",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-reserved-program-execution",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약 실행",
