@@ -349,6 +349,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-svtool-change",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - Servo Tool Change",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-hi6-cube-interference",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 큐브간섭검지",
