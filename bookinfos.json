@@ -81,7 +81,7 @@
 	{
 		"book_id": "doc-industrial-communication",
 		"ver_id": "korean",
-		"title": "Hi6 로봇제어기 기능설명서 - 산업용 통신",
+		"title": "Hi6/Hi7 로봇제어기 기능설명서 - 산업용 통신",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 
@@ -89,7 +89,21 @@
 	{
 		"book_id": "doc-industrial-communication",
 		"ver_id": "english",
-		"title": "Hi6 Robot Controller Function Manual - Industrial communication",
+		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "german",
+		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication (German)",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "chinese",
+		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication (Chinese)",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
@@ -326,6 +340,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-load-estimation",
+		"ver_id": "english",
+		"title": "Hi6 load estimation Function Manual",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-reserved-program-execution",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약 실행",
@@ -336,6 +357,13 @@
 		"book_id": "doc-svtool-change",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 서보툴 체인지",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-svtool-change",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - Servo Tool Change",
 		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
@@ -657,15 +685,15 @@
 	{
 		"book_id": "doc-safespace2.0",
 		"ver_id": "german",
-		"title": "Hi7 SafeSpace2.0 Manual - German",
-		"shelf_ids": [ "hi7-cont" ],
+		"title": "SafeSpace2.0 Manual - German",
+		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
 		"book_id": "doc-safespace2.0",
 		"ver_id": "chinese",
-		"title": "Hi7 SafeSpace2.0 Manual - Chinese",
-		"shelf_ids": [ "hi7-cont" ],
+		"title": "SafeSpace2.0 Manual - Chinese",
+		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
