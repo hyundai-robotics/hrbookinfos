@@ -21,7 +21,8 @@
 		"shelf_ids": [ "hi7-cont" ],
 		"variables": {
 			"cont_model": "Hi7"
-		}
+		},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-operation",
