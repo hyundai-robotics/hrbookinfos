@@ -376,6 +376,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-hi6-cube-interference",
+		"ver_id": "korean",
+		"title": "Hi6 Robot Controller Function Manual - Cube Inteference check",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-hi6-mastering",
 		"ver_id": "korean",
 		"title": "Hi6 마스터링 기능설명서",
