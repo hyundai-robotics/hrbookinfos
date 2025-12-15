@@ -439,6 +439,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-endless",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - Endless",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
         "book_id": "doc-us220-maintenance",
         "ver_id": "korean",
         "title": "US220 보수설명서",
