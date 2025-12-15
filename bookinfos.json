@@ -334,6 +334,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-sensor-sync",
+		"ver_id": "english",
+		"title": "Hi6 Robot Controller Function Manual - Sensor Synchronization",
+		"shelf_ids": [ "hi6-cont" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-load-estimation",
 		"ver_id": "korean",
 		"title": "Hi6 부하추정 기능설명서",
