@@ -168,28 +168,28 @@
 		"book_id": "rules-on-occupational-safety-and-health-standards",
 		"ver_id": "korean",
 		"title": "산업안전보건기준에 관한 규칙",
-		"products": [ "all" ],
+		"products": [ "common" ],
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
 		"ver_id": "english",
 		"title": "Rules on Occupational Safety and Health Standards",
-		"products": [ "all" ],
+		"products": [ "common" ],
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
 		"book_id": "quality-assurance",
 		"ver_id": "korean",
 		"title": "품질 보증",
-		"products": [ "all" ],
+		"products": [ "common" ],
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
 		"book_id": "quality-assurance",
 		"ver_id": "english",
 		"title": "Quality Assurance",
-		"products": [ "all" ],
+		"products": [ "common" ],
 		"shelf_ids": [ "hi6-cont" ]
 	},
 	{
@@ -277,7 +277,7 @@
 		"book_id": "page-product",
 		"ver_id": "korean",
 		"title": "제품 - 산업용로봇",
-		"products": [ "all" ],
+		"products": [ "common" ],
 		"shelf_ids": [ "common" ],
 		"url": "https://hyundai-robotics.com/product/product1.html"
 	},
@@ -285,7 +285,7 @@
 		"book_id": "page-product",
 		"ver_id": "english",
 		"title": "Product - Industrial Robot",
-		"products": [ "all" ],
+		"products": [ "common" ],
 		"shelf_ids": [ "common" ],
 		"url": "https://hyundai-robotics.com/english/product/product1.html"
 	},
@@ -293,7 +293,7 @@
 		"book_id": "page-brochure-catalog",
 		"ver_id": "korean",
 		"title": "브로슈어&카탈로그",
-		"products": [ "all" ],
+		"products": [ "common" ],
 		"shelf_ids": [ "common" ],
 		"url": "https://hyundai-robotics.com/publicity/publicity4.html"
 	},
@@ -301,7 +301,7 @@
 		"book_id": "page-brochure-catalog",
 		"ver_id": "english",
 		"title": "Brochures and catalogues",
-		"products": [ "all" ],
+		"products": [ "common" ],
 		"shelf_ids": [ "common" ],
 		"url": "https://hyundai-robotics.com/english/publicity/publicity4.html"
 	},
