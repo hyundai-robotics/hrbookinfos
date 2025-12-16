@@ -3,15 +3,13 @@
 		"book_id": "doc-hi6-operation",
 		"ver_id": "korean-tp600",
 		"title": "Hi6 로봇제어기 조작설명서 - TP600",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hi6-operation",
 		"ver_id": "korean-tp630",
 		"title": "Hi6 로봇제어기 조작설명서 - TP630",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"variables": {
 			"cont_model": "Hi6"
 		}
@@ -21,7 +19,6 @@
 		"ver_id": "korean-tp630-test",
 		"title": "Hi7 로봇제어기 조작설명서 - TP630",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
 		"variables": {
 			"cont_model": "Hi7"
 		},
@@ -31,72 +28,62 @@
 		"book_id": "doc-hi6-operation",
 		"ver_id": "english-tp600",
 		"title": "Hi6 Robot Controller Operation Manual - TP600",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hi6-operation",
 		"ver_id": "english-tp630",
 		"title": "Hi6 Robot Controller Operation Manual - TP630",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hi6-n-maintenance",
 		"ver_id": "korean",
 		"title": "Hi6-N 로봇제어기 보수설명서",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hi6-maintenance",
 		"ver_id": "main",
 		"title": "Hi6-N 로봇제어기 보수설명서 (PDF)",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi6-maintenance/raw/main/Hi6-N250306CMKR8.pdf"
 	},
 	{
 		"book_id": "doc-hi6-n-maintenance",
 		"ver_id": "english",
 		"title": "Hi6-N Robot Controller Maintenance Manual",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hi6-t-maintenance",
 		"ver_id": "korean",
 		"title": "Hi6-T 로봇제어기 보수설명서",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hi6-t-maintenance",
 		"ver_id": "english",
 		"title": "Hi6-T Robot Controller Maintenance Manual",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hrscript",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 로봇언어 HRScript",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hrscript",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - HRScript",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-industrial-communication",
 		"ver_id": "korean",
 		"title": "Hi6/Hi7 로봇제어기 기능설명서 - 산업용 통신",
 		"products": [ "hi6", "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 
 	},
@@ -105,7 +92,6 @@
 		"ver_id": "english",
 		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication",
 		"products": [ "hi6", "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -113,7 +99,6 @@
 		"ver_id": "german",
 		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication (German)",
 		"products": [ "hi6", "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -121,7 +106,6 @@
 		"ver_id": "chinese",
 		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication (Chinese)",
 		"products": [ "hi6", "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -157,86 +141,74 @@
 		"book_id": "doc-multi-task",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 멀티태스킹",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
 		"ver_id": "korean",
 		"title": "산업안전보건기준에 관한 규칙",
-		"products": [ "common" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "common" ]
 	},
 	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
 		"ver_id": "english",
 		"title": "Rules on Occupational Safety and Health Standards",
-		"products": [ "common" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "common" ]
 	},
 	{
 		"book_id": "quality-assurance",
 		"ver_id": "korean",
 		"title": "품질 보증",
-		"products": [ "common" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "common" ]
 	},
 	{
 		"book_id": "quality-assurance",
 		"ver_id": "english",
 		"title": "Quality Assurance",
-		"products": [ "common" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "common" ]
 	},
 	{
 		"book_id": "doc-hi6-auto-backup",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 자동 백업",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
 		"book_id": "doc-spot-weld",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 스폿",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-spot-weld",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - spot",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-add-axes",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 부가축",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-add-axes",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Additional Axes",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-arc-weld",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 아크",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-arc-weld",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Arc Weld",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
     {
@@ -244,7 +216,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 포지셔너 동기",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -252,29 +223,25 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - positioner sync.",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
 		"book_id": "doc-hi6-tp-app",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - Teach Pendant 앱(App)",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hi6-tp-app",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual- Teach Pendant App",
-		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ]
+		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "page-product",
 		"ver_id": "korean",
 		"title": "제품 - 산업용로봇",
 		"products": [ "common" ],
-		"shelf_ids": [ "common" ],
 		"url": "https://hyundai-robotics.com/product/product1.html"
 	},
 	{
@@ -282,7 +249,6 @@
 		"ver_id": "english",
 		"title": "Product - Industrial Robot",
 		"products": [ "common" ],
-		"shelf_ids": [ "common" ],
 		"url": "https://hyundai-robotics.com/english/product/product1.html"
 	},
 	{
@@ -290,7 +256,6 @@
 		"ver_id": "korean",
 		"title": "브로슈어&카탈로그",
 		"products": [ "common" ],
-		"shelf_ids": [ "common" ],
 		"url": "https://hyundai-robotics.com/publicity/publicity4.html"
 	},
 	{
@@ -298,7 +263,6 @@
 		"ver_id": "english",
 		"title": "Brochures and catalogues",
 		"products": [ "common" ],
-		"shelf_ids": [ "common" ],
 		"url": "https://hyundai-robotics.com/english/publicity/publicity4.html"
 	},
 	{
@@ -306,7 +270,6 @@
 		"ver_id": "korean",
 		"title": "Hi5a 로봇제어기 조작설명서",
 		"products": [ "hi5a" ],
-		"shelf_ids": [ "hi5a-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi5a-operation/raw/korean/Hi5a-S210401OMKR9.pdf"
 	},
 	{
@@ -314,7 +277,6 @@
 		"ver_id": "korean",
 		"title": "Hi5a 로봇제어기 기능설명서 - CUBE 간섭금지",
 		"products": [ "hi5a" ],
-		"shelf_ids": [ "hi5a-cont" ],
 		"url": "http://www.hyundai-industrialrobot.com/data/FAQ/211213/CUBE 간섭검지.pdf"
 	},
 	{
@@ -322,29 +284,25 @@
 		"ver_id": "korean",
 		"title": "Hi5a 로봇제어기 기능설명서 - SoftJoint",
 		"products": [ "hi5a" ],
-		"shelf_ids": [ "hi5a-cont" ],
 		"url": "https://www.hyundai-industrialrobot.com/data/FAQ/211213/SoftJoint.pdf"
 	},
 	{
 		"book_id": "doc-hi5a-task-daemon",
 		"ver_id": "korean",
 		"title": "Hi5a 로봇제어기 기능설명서 - 태스크 데몬 (Task Daemon)",
-		"products": [ "hi5a" ],
-		"shelf_ids": [ "hi5a-cont" ]
+		"products": [ "hi5a" ]
 	},
 	{
 		"book_id": "doc-hi5a-task-daemon",
 		"ver_id": "english",
 		"title": "Hi5a Robot Controller Function Manual - Task Daemon",
-		"products": [ "hi5a" ],
-		"shelf_ids": [ "hi5a-cont" ]
+		"products": [ "hi5a" ]
 	},
 	{
 		"book_id": "doc-cobot-safety-function",
 		"ver_id": "korean",
 		"title": "협동로봇 안전 기능 설명서",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -352,7 +310,6 @@
 		"ver_id": "korean",
 		"title": "협동로봇 보수 설명서",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -360,7 +317,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 SDK 설명서",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -368,7 +324,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - SDK",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -376,7 +331,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 -  센서동기",
 		"products": [ "hi6" ],		
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -384,7 +338,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Sensor Synchronization",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -392,7 +345,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 부하추정 기능설명서",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -400,7 +352,6 @@
 		"ver_id": "english",
 		"title": "Hi6 load estimation Function Manual",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -408,7 +359,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약 실행",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -416,7 +366,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 서보툴 체인지",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -424,7 +373,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Servo Tool Change",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -432,7 +380,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 큐브간섭검지",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -440,7 +387,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Cube Inteference check",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -448,7 +394,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 마스터링 기능설명서",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -456,7 +401,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Mastering Function Manual",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -464,7 +408,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 Open API 설명서",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -472,7 +415,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Open API Manual",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -480,7 +422,6 @@
 		"ver_id": "korean",
 		"title": "SafeSpace2.0 설명서",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -488,7 +429,6 @@
 		"ver_id": "english",
 		"title": "SafeSpace2.0 Manual",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -496,7 +436,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 협조제어",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
     {
@@ -504,7 +443,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 엔드리스",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -512,7 +450,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Endless",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -520,7 +457,6 @@
         "ver_id": "korean",
         "title": "US220 보수설명서",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "us220-cont" ],
         "permission": "public"
     },
 	{
@@ -528,7 +464,6 @@
         "ver_id": "english",
         "title": "Manipulator Maintenance Manual - US220",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "us220-cont" ],
         "permission": "public"
     },
     {
@@ -536,7 +471,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 Pick-it 플러그인 설명서",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
     {
@@ -544,7 +478,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Pick-it Plugin Manual",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -552,7 +485,6 @@
         "ver_id": "korean",
         "title": "HS220 보수설명서",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "hs220-cont" ],
         "permission": "public"
     },
 	{
@@ -560,7 +492,6 @@
         "ver_id": "english",
         "title": "Manipulator Maintenance Manual - HS220",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "hs220-cont" ],
         "permission": "public"
     },
 	{
@@ -568,7 +499,6 @@
         "ver_id": "korean",
         "title": "HA006B 보수설명서",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "ha006B-cont" ],
         "permission": "public"
     },
 	{
@@ -576,7 +506,6 @@
         "ver_id": "english",
         "title": "Manipulator Maintenance Manual - HA006B",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "ha006B-cont" ],
         "permission": "public"
     },
 	{
@@ -584,7 +513,6 @@
         "ver_id": "korean",
         "title": "HH050 보수설명서",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "hh050-cont" ],
         "permission": "public"
     },
 	{
@@ -592,7 +520,6 @@
         "ver_id": "english",
         "title": "Manipulator Maintenance Manual - HH050",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "hh050-cont" ],
         "permission": "public"
 	},
 	{
@@ -600,7 +527,6 @@
         "ver_id": "korean",
         "title": "HH020 보수설명서",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "hh020-cont" ],
         "permission": "public"
     },
 	{
@@ -608,7 +534,6 @@
         "ver_id": "english",
         "title": "Manipulator Maintenance Manual - HH020",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "hh020-cont" ],
         "permission": "public"
     },
 	{
@@ -616,7 +541,6 @@
         "ver_id": "korean",
         "title": "HH7 보수설명서",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "hh7-cont" ],
         "permission": "public"
     },
 	{
@@ -624,7 +548,6 @@
         "ver_id": "english",
         "title": "Manipulator Maintenance Manual - HH7",
 				"products": [ "manipulator" ],
-        "shelf_ids": [ "hh7-cont" ],
         "permission": "public"
     },
 	{
@@ -632,7 +555,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - NTP 시간 동기화",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
     },
 	{
@@ -640,7 +562,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Operation Manual - NTP time synchronization",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
     },
 	{
@@ -648,7 +569,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 모노펌프 실러건",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -656,7 +576,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 래더 편집 (Ladder Edit)",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -664,7 +583,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Ladder Edit",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -672,7 +590,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 트러블슈팅 매뉴얼",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -680,7 +597,6 @@
 		"ver_id": "korean",
 		"title": "Hi6 센서 기반 힘 제어 기능 설명서",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -688,7 +604,6 @@
 		"ver_id": "english",
 		"title": "Hi6 Force Control with Sensors",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -696,7 +611,6 @@
 		"ver_id": "korean",
 		"title": "HD현대로보틱스 ROS2 드라이버 매뉴얼",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -704,7 +618,6 @@
 		"ver_id": "english",
 		"title": "HD Hyundai Robotics ROS2 Driver Manual",
 		"products": [ "hi6" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -712,7 +625,6 @@
 		"ver_id": "korean",
 		"title": "Hi7-N 로봇제어기 보수설명서",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -720,7 +632,6 @@
 		"ver_id": "korean",
 		"title": "Hi7 로봇제어기 기능설명서 - 사용자DIO, 확장DIO",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -728,7 +639,6 @@
 		"ver_id": "english",
 		"title": "Hi7 Robot Controller Function Manual - User DIO, Extension DIO",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -736,7 +646,6 @@
 		"ver_id": "korean-hi6a-tp630",
 		"title": "Hi7 로봇제어기 조작설명서 - TP630",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -744,14 +653,12 @@
 		"ver_id": "english",
 		"title": "Hi7-N Robot Cotroller Operation Manual (PDF) - English",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi7-operation/raw/english/Hi7-N251114OMEN1.pdf"
 	},
 	{
 		"book_id": "doc-hi7-operation",
 		"ver_id": "chinese",
 		"title": "Hi7-N Robot Cotroller Operation Manual (PDF) - Chinese",
-		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi7-operation/raw/chinese/Hi7-N251114OMCN1.pdf"
 	},
 	{
@@ -759,7 +666,6 @@
 		"ver_id": "german",
 		"title": "Hi7 Robot Controller Operation Manual - TP630 (German)",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
 		"permission": "public"
 	},
 	{
@@ -767,7 +673,6 @@
 		"ver_id": "english",
 		"title": "Hi7-N Robot Controller Maintenance Manual (PDF) - English",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/english/Hi7-N251031MMEN1.pdf"
 	},
 	{
@@ -775,7 +680,6 @@
 		"ver_id": "chinese",
 		"title": "Hi7-N Robot Controller Maintenance Manual (PDF) - Chinese",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/chinese/Hi7-N251031MMCN1.pdf"
 	},
 	{
@@ -783,7 +687,6 @@
 		"ver_id": "german",
 		"title": "Hi7-N Robot Controller Maintenance Manual (PDF) - German",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/german/Hi7-N251031MMDE1.pdf"
 	},
 	{
@@ -791,7 +694,6 @@
 		"ver_id": "german",
 		"title": "SafeSpace2.0 Manual - German",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -799,7 +701,6 @@
 		"ver_id": "chinese",
 		"title": "SafeSpace2.0 Manual - Chinese",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi6-cont" ],
 		"permission": "public"
 	},
 	{
@@ -807,7 +708,6 @@
 		"ver_id": "chinese",
 		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO (Chinese)",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
 		"permission": "public"
 	},
 	{
@@ -815,7 +715,6 @@
 		"ver_id": "german",
 		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO (German)",
 		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
 		"permission": "public"
 	}
 ]
