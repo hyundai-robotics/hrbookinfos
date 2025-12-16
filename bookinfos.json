@@ -716,5 +716,19 @@
 		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO (German)",
 		"products": [ "hi7" ],
 		"permission": "public"
-	}
+	},
+	{
+        "book_id": "doc-hi6-softjoint",
+        "ver_id": "korean",
+        "title": "Hi6 SoftJoint 기능",
+        "shelf_ids": [ "hi6" ],
+        "permission": "public"
+    },
+    {
+        "book_id": "doc-hi6-softjoint",
+        "ver_id": "english",
+        "title": "Hi6 SoftJoint Function",
+        "shelf_ids": [ "hi6" ],
+        "permission": "public"
+    }
 ]
