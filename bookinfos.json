@@ -723,5 +723,12 @@
 		"title": "Hi6 소프트 조인트 기능 설명서",
 		"products": [ "hi6" ],
 		"permission": "public"
+    },
+	{
+        "book_id": "doc-hi6-softjoint",
+        "ver_id": "english",
+		"title": "Hi6 SoftJoint Function",
+		"products": [ "hi6" ],
+		"permission": "public"
     }
 ]
