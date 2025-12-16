@@ -760,19 +760,11 @@
 	},
 	{
 		"book_id": "doc-hi7-operation",
-		"ver_id": "korean",
-		"title": "Hi7-N 로봇제어기 조작설명서 (PDF)",
+		"ver_id": "german",
+		"title": "Hi7 Robot Controller Operation Manual - TP630 (German)",
 		"products": [ "hi7" ],
 		"shelf_ids": [ "hi7-cont" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi7-operation/raw/korean/Hi7-N251114OMKR1.pdf"
-	},
-	{
-		"book_id": "doc-hi7-maintenance",
-		"ver_id": "korean",
-		"title": "Hi7-N 로봇제어기 보수설명서 (PDF)",
-		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/korean/Hi7-N251031MMKR1.pdf"
+		"permission": "public"
 	},
 	{
 		"book_id": "doc-hi7-maintenance",
@@ -797,14 +789,6 @@
 		"products": [ "hi7" ],
 		"shelf_ids": [ "hi7-cont" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/german/Hi7-N251031MMDE1.pdf"
-	},
-	{
-		"book_id": "doc-hi7-operation",
-		"ver_id": "german",
-		"title": "Hi7 Robot Controller Operation Manual - TP630 (German)",
-		"products": [ "hi7" ],
-		"shelf_ids": [ "hi7-cont" ],
-		"permission": "public"
 	},
 	{
 		"book_id": "doc-safespace2.0",
