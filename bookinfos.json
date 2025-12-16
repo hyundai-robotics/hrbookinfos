@@ -720,8 +720,8 @@
 	{
         "book_id": "doc-hi6-softjoint",
         "ver_id": "korean",
-        "title": "Hi6 SoftJoint 기능",
-        "products": [ "hi6" ],
-        "permission": "public"
+		"title": "Hi6 소프트 조인트 기능 설명서",
+		"products": [ "hi6" ],
+		"permission": "public"
     }
 ]
