@@ -721,7 +721,7 @@
         "book_id": "doc-hi6-softjoint",
         "ver_id": "korean",
         "title": "Hi6 SoftJoint 기능",
-        "shelf_ids": [ "hi6" ],
+        "products": [ "hi6" ],
         "permission": "public"
     }
 ]
