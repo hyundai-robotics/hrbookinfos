@@ -16,7 +16,7 @@
 	},
 	{
 		"book_id": "doc-hi6-operation",
-		"ver_id": "korean-tp630-test",
+		"ver_id": "korean-hi7-tp630",
 		"title": "Hi7 로봇제어기 조작설명서 - TP630",
 		"products": [ "hi7" ],
 		"variables": {
