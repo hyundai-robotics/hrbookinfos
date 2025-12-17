@@ -757,5 +757,12 @@
 		"title": "Hi6 SoftXYZ Function",
 		"products": [ "hi6" ],
 		"permission": "public"
+    },
+	{
+        "book_id": "doc-hi7-troubleshoot",
+        "ver_id": "korean",
+		"title": "Hi7 troubleshoot manual",
+		"products": [ "hi7" ],
+		"permission": "public"
     }
 ]
