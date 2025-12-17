@@ -743,5 +743,12 @@
 		"title": "Hi6 SoftJoint Function",
 		"products": [ "hi6" ],
 		"permission": "public"
-    }
+    },
+	{
+        "book_id": "doc-hi6-softxyz",
+        "ver_id": "korean",
+		"title": "Hi6 소프트 XYZ 기능 설명서",
+		"products": [ "hi6" ],
+		"permission": "public"
+    },
 ]
