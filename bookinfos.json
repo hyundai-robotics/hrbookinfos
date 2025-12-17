@@ -32,9 +32,22 @@
 	},
 	{
 		"book_id": "doc-hi6-operation",
-		"ver_id": "english-tp630",
+		"ver_id": "english-Hi6-tp630",
 		"title": "Hi6 Robot Controller Operation Manual - TP630",
-		"products": [ "hi6" ]
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-operation",
+		"ver_id": "english-Hi7-tp630",
+		"title": "Hi7 Robot Controller Operation Manual - TP630",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-n-maintenance",
@@ -78,12 +91,6 @@
 	},
 	{
 		"book_id": "doc-hrscript",
-		"ver_id": "english",
-		"title": "Hi6 Robot Controller Function Manual - HRScript",
-		"products": [ "hi6" ]
-	},
-	{
-		"book_id": "doc-hrscript",
 		"ver_id": "korean-Hi7",
 		"title": "Hi7 로봇제어기 기능설명서 - 로봇언어 HRScript",
 		"products": [ "hi7" ],
@@ -91,6 +98,24 @@
 			"cont_model": "Hi7"
 		},
 		"visible": false
+	},
+	{
+		"book_id": "doc-hrscript",
+		"ver_id": "english-Hi6",
+		"title": "Hi6 Robot Controller Function Manual - HRScript",
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hrscript",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - HRScript",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-industrial-communication",
