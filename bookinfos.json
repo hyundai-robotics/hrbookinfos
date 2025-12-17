@@ -761,7 +761,7 @@
 	{
         "book_id": "doc-hi7-troubleshoot",
         "ver_id": "korean",
-		"title": "Hi7 troubleshoot manual",
+		"title": "Hi7 로봇제어기 트러블슈팅 매뉴얼",
 		"products": [ "hi7" ],
 		"permission": "public"
     }
