@@ -795,6 +795,8 @@
         "ver_id": "korean-Hi6",
 		"title": "Hi6 Open Stream 설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"variables": {
+			"cont_model": "Hi6"
+		}
     }
 ]
