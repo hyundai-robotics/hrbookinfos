@@ -789,5 +789,12 @@
 		"title": "Hi7 로봇제어기 트러블슈팅 매뉴얼",
 		"products": [ "hi7" ],
 		"permission": "public"
+    },
+	{
+        "book_id": "doc-open-stream",
+        "ver_id": "korean",
+		"title": "Hi6 Open Stream 메뉴얼",
+		"products": [ "hi6" ],
+		"permission": "public"
     }
 ]
