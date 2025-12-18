@@ -793,7 +793,7 @@
 	{
         "book_id": "doc-open-stream",
         "ver_id": "korean",
-		"title": "Hi6 Open Stream 메뉴얼",
+		"title": "Hi6 Open Stream 설명서",
 		"products": [ "hi6" ],
 		"permission": "public"
     }
