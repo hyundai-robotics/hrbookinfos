@@ -415,17 +415,43 @@
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 - 큐브간섭검지",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-cube-interference",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 로봇제어기 기능설명서 - 큐브간섭검지",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Cube Inteference check",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-cube-interference",
+		"ver_id": "english",
+		"title": "Hi7 Robot Controller Function Manual - Cube Inteference check",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-mastering",
