@@ -435,7 +435,7 @@
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
-		"ver_id": "english",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Robot Controller Function Manual - Cube Inteference check",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -445,7 +445,7 @@
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
-		"ver_id": "english",
+		"ver_id": "english-Hi7",
 		"title": "Hi7 Robot Controller Function Manual - Cube Inteference check",
 		"products": [ "hi7" ],
 		"permission": "public",
