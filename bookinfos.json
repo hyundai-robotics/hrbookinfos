@@ -151,21 +151,61 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 모드버스",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-modbus",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - 모드버스",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-modbus",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Modbus",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-modbus",
+		"ver_id": "english",
+		"title": "Hi7 Robot Controller Function Manual - Modbus",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-hi6-embedded-plc",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 내장 PLC",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+
+	},
+	{
+		"book_id": "doc-hi6-embedded-plc",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - 내장 PLC",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 
 	},
 	{
@@ -173,7 +213,20 @@
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Embedded PLC",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-embedded-plc",
+		"ver_id": "english",
+		"title": "Hi7 Robot Controller Function Manual - Embedded PLC",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-multi-task",
@@ -210,7 +263,20 @@
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 자동 백업",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-auto-backup",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - 자동 백업",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-spot-weld",
@@ -252,52 +318,151 @@
 		"book_id": "doc-add-axes",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 부가축",
-		"products": [ "hi6" ]
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-add-axes",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - 부가축",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-add-axes",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Additional Axes",
-		"products": [ "hi6" ]
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-add-axes",
+		"ver_id": "english",
+		"title": "Hi7 Robot Controller Function Manual - Additional Axes",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-arc-weld",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 아크",
-		"products": [ "hi6" ]
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-arc-weld",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - 아크",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-arc-weld",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - Arc Weld",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-arc-weld",
+		"ver_id": "english",
+		"title": "Hi7 Robot Controller Function Manual - Arc Weld",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
     {
 		"book_id": "doc-positioner-sync",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 포지셔너 동기",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-positioner-sync",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - 포지셔너 동기",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-positioner-sync",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual - positioner sync.",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-positioner-sync",
+		"ver_id": "english",
+		"title": "Hi7 Robot Controller Function Manual - positioner sync.",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-hi6-tp-app",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - Teach Pendant 앱(App)",
-		"products": [ "hi6" ]
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-tp-app",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - Teach Pendant 앱(App)",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-hi6-tp-app",
 		"ver_id": "english",
 		"title": "Hi6 Robot Controller Function Manual- Teach Pendant App",
-		"products": [ "hi6" ]
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-tp-app",
+		"ver_id": "english",
+		"title": "Hi7 Robot Controller Function Manual- Teach Pendant App",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "page-product",
@@ -435,14 +600,40 @@
 		"ver_id": "korean",
 		"title": "Hi6 부하추정 기능설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-load-estimation",
+		"ver_id": "korean",
+		"title": "Hi7 부하추정 기능설명서",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-load-estimation",
 		"ver_id": "english",
 		"title": "Hi6 load estimation Function Manual",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-load-estimation",
+		"ver_id": "english",
+		"title": "Hi7 load estimation Function Manual",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
