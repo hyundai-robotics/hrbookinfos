@@ -392,7 +392,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-sdk",
@@ -412,7 +413,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-sensor-sync",
@@ -507,7 +509,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
@@ -527,7 +530,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-mastering",
@@ -547,7 +551,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-mastering",
@@ -567,7 +572,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-open-api",
@@ -587,7 +593,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
         "book_id": "doc-hi6-open-api",
@@ -607,7 +614,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-safespace2.0",
@@ -641,7 +649,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
     {
 		"book_id": "doc-endless",
@@ -661,7 +670,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-endless",
@@ -681,7 +691,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
         "book_id": "doc-us220-maintenance",
@@ -715,7 +726,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
     {
         "book_id": "doc-hi6-pickit",
@@ -735,7 +747,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
         "book_id": "doc-hs220-maintenance",
@@ -825,7 +838,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
     },
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
@@ -845,7 +859,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
     },
 	{
 		"book_id": "doc-monopump",
@@ -865,7 +880,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-ladder-edit",
@@ -885,7 +901,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-ladder-edit",
@@ -904,7 +921,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-troubleshoot",
@@ -931,7 +949,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-hi6-force-control",
@@ -951,7 +970,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
 	},
 	{
 		"book_id": "doc-ros2-driver",
@@ -1082,7 +1102,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
     },
 	{
         "book_id": "doc-hi6-softjoint",
@@ -1102,7 +1123,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
     },
 	{
         "book_id": "doc-hi6-softxyz",
@@ -1122,7 +1144,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
     }, 
 	{
         "book_id": "doc-hi6-softxyz",
@@ -1142,7 +1165,8 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	}
+      	},
+		"visible": false
     },
 	{
         "book_id": "doc-hi7-troubleshoot",
@@ -1170,6 +1194,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		}
+		},
+		"visible": false
     }
 ]
