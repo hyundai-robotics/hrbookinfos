@@ -849,7 +849,7 @@
     },
 	{
 		"book_id": "doc-monopump",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 - 모노펌프 실러건",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -859,7 +859,7 @@
 	},
 	{
 		"book_id": "doc-monopump",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi7",
 		"title": "Hi7 로봇제어기 기능설명서 - 모노펌프 실러건",
 		"products": [ "hi7" ],
 		"permission": "public",
