@@ -376,17 +376,43 @@
 	},
 	{
 		"book_id": "doc-hi6-sdk",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 SDK 설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-sdk",
-		"ver_id": "english",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 SDK 설명서",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-sdk",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Robot Controller Function Manual - SDK",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-sdk",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - SDK",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-sensor-sync",
@@ -505,31 +531,83 @@
 	},
 	{
 		"book_id": "doc-hi6-mastering",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 마스터링 기능설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-mastering",
-		"ver_id": "english",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 마스터링 기능설명서",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-mastering",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Mastering Function Manual",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-mastering",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Mastering Function Manual",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-open-api",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 Open API 설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-open-api",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 Open API 설명서",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
         "book_id": "doc-hi6-open-api",
-		"ver_id": "english",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Open API Manual",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+        "book_id": "doc-hi6-open-api",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Open API Manual",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-safespace2.0",
@@ -547,24 +625,63 @@
 	},
 	{
 		"book_id": "doc-cooperation",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 협조제어",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-cooperation",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 협조제어",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
     {
 		"book_id": "doc-endless",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 - 엔드리스",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
 	},
 	{
 		"book_id": "doc-endless",
-		"ver_id": "english",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 로봇제어기 기능설명서 - 엔드리스",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+	},
+	{
+		"book_id": "doc-endless",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Robot Controller Function Manual - Endless",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-endless",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Endless",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
         "book_id": "doc-us220-maintenance",
@@ -582,17 +699,43 @@
     },
     {
         "book_id": "doc-hi6-pickit",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 Pick-it 플러그인 설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+        "book_id": "doc-hi6-pickit",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 Pick-it 플러그인 설명서",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
     {
         "book_id": "doc-hi6-pickit",
-		"ver_id": "english",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Pick-it Plugin Manual",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+        "book_id": "doc-hi6-pickit",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Pick-it Plugin Manual",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
         "book_id": "doc-hs220-maintenance",
@@ -666,38 +809,102 @@
     },
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 - NTP 시간 동기화",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
     },
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
-		"ver_id": "english",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 로봇제어기 기능설명서 - NTP 시간 동기화",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+    },
+	{
+		"book_id": "doc-hi6-ntp-time-synchronization",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Robot Controller Operation Manual - NTP time synchronization",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+    },
+	{
+		"book_id": "doc-hi6-ntp-time-synchronization",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Operation Manual - NTP time synchronization",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
     },
 	{
 		"book_id": "doc-monopump",
 		"ver_id": "korean",
 		"title": "Hi6 로봇제어기 기능설명서 - 모노펌프 실러건",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-monopump",
+		"ver_id": "korean",
+		"title": "Hi7 로봇제어기 기능설명서 - 모노펌프 실러건",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-ladder-edit",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 - 래더 편집 (Ladder Edit)",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-ladder-edit",
-		"ver_id": "english",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 로봇제어기 기능설명서 - 래더 편집 (Ladder Edit)",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-ladder-edit",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Robot Controller Function Manual - Ladder Edit",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},{
+		"book_id": "doc-hi6-ladder-edit",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Ladder Edit",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-troubleshoot",
@@ -708,17 +915,43 @@
 	},
 	{
 		"book_id": "doc-hi6-force-control",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 센서 기반 힘 제어 기능 설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
 	},
 	{
 		"book_id": "doc-hi6-force-control",
-		"ver_id": "english",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 센서 기반 힘 제어 기능 설명서",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-force-control",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Force Control with Sensors",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-force-control",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Force Control with Sensors",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-ros2-driver",
@@ -833,38 +1066,93 @@
 	},
 	{
         "book_id": "doc-hi6-softjoint",
-        "ver_id": "korean",
+        "ver_id": "korean-Hi6",
 		"title": "Hi6 소프트 조인트 기능 설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
     },
 	{
         "book_id": "doc-hi6-softjoint",
-        "ver_id": "english",
+        "ver_id": "korean-Hi7",
+		"title": "Hi7 소프트 조인트 기능 설명서",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+    },
+	{
+        "book_id": "doc-hi6-softjoint",
+        "ver_id": "english-Hi6",
 		"title": "Hi6 SoftJoint Function",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+    },
+	{
+        "book_id": "doc-hi6-softjoint",
+        "ver_id": "english-Hi7",
+		"title": "Hi7 SoftJoint Function",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
     },
 	{
         "book_id": "doc-hi6-softxyz",
-        "ver_id": "korean",
+        "ver_id": "korean-Hi6",
 		"title": "Hi6 소프트 XYZ 기능 설명서",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
     }, 
 	{
         "book_id": "doc-hi6-softxyz",
-        "ver_id": "english",
+        "ver_id": "korean-Hi7",
+		"title": "Hi7 소프트 XYZ 기능 설명서",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+    }, 
+	{
+        "book_id": "doc-hi6-softxyz",
+        "ver_id": "english-Hi6",
 		"title": "Hi6 SoftXYZ Function",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+    },
+	{
+        "book_id": "doc-hi6-softxyz",
+        "ver_id": "english-Hi7",
+		"title": "Hi7 SoftXYZ Function",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
     },
 	{
         "book_id": "doc-hi7-troubleshoot",
         "ver_id": "korean",
 		"title": "Hi7 로봇제어기 트러블슈팅 매뉴얼",
 		"products": [ "hi7" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
     },
 	{
         "book_id": "doc-open-stream",
@@ -873,6 +1161,15 @@
 		"products": [ "hi6" ],
 		"variables": {
 			"cont_model": "Hi6"
+		}
+    },
+	{
+        "book_id": "doc-open-stream",
+        "ver_id": "korean-Hi7",
+		"title": "Hi7 Open Stream 설명서",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
 		}
     }
 ]
