@@ -1378,6 +1378,15 @@
 			"cont_model": "Hi6"
 		}
     },
+	 {
+        "book_id": "doc-open-stream",
+        "ver_id": "english-Hi6",
+		"title": "Hi6 Open Stream Manual",
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+    },
 	{
         "book_id": "doc-open-stream",
         "ver_id": "korean-Hi7",
