@@ -637,19 +637,42 @@
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약 실행",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
 	},
 	{
-		"book_id": "doc-svtool-change",
-		"ver_id": "korean-Hi6",
-		"title": "Hi6 로봇제어기 기능설명서 - 서보툴 체인지",
+		"book_id": "doc-reserved-program-execution",
+		"ver_id": "korean-Hi7",
+		"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약 실행",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
+	},
+	{
+		"book_id": "doc-reserved-program-execution",
+		"ver_id": "english-Hi6",
+		"title": "Hi6 Robot Controller Function Manual - Reserved program execution",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-reserved-program-execution",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Reserved program execution",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
 		}
 	},
 	{
