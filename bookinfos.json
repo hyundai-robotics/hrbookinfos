@@ -677,6 +677,16 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
+		"ver_id": "korean-Hi6",
+		"title": "Hi6 로봇제어기 기능설명서 - 서보툴 체인지",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-svtool-change",
 		"ver_id": "korean-Hi7",
 		"title": "Hi7 로봇제어기 기능설명서 - 서보툴 체인지",
 		"products": [ "hi7" ],
