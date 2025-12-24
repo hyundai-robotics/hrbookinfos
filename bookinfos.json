@@ -648,7 +648,7 @@
 	{
 		"book_id": "doc-reserved-program-execution",
 		"ver_id": "korean-Hi7",
-		"title": "Hi6 로봇제어기 기능설명서 - 프로그램 예약 실행",
+		"title": "Hi7 로봇제어기 기능설명서 - 프로그램 예약 실행",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
