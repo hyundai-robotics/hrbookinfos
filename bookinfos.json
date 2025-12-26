@@ -230,9 +230,42 @@
 	},
 	{
 		"book_id": "doc-multi-task",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 - 멀티태스킹",
-		"products": [ "hi6" ]
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-multi-task",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 로봇제어기 기능설명서 - 멀티태스킹",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-multi-task",
+		"ver_id": "english-Hi6",
+		"title": "Hi6 Robot Controller Function Manual - Multitasking",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-multi-task",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Multitasking",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
