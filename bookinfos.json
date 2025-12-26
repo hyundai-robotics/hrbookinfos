@@ -616,21 +616,47 @@
 	},
 	{
 		"book_id": "doc-sensor-sync",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 -  센서동기",
 		"products": [ "hi6" ],		
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+		{
+		"book_id": "doc-sensor-sync",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 로봇제어기 기능설명서 -  센서동기",
+		"products": [ "hi7" ],		
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-sensor-sync",
-		"ver_id": "english",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 Robot Controller Function Manual - Sensor Synchronization",
 		"products": [ "hi6" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-sensor-sync",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Sensor Synchronization",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	}
 	},
 	{
 		"book_id": "doc-load-estimation",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi6",
 		"title": "Hi6 부하추정 기능설명서",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -640,7 +666,7 @@
 	},
 	{
 		"book_id": "doc-load-estimation",
-		"ver_id": "korean",
+		"ver_id": "korean-Hi7",
 		"title": "Hi7 부하추정 기능설명서",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -650,7 +676,7 @@
 	},
 	{
 		"book_id": "doc-load-estimation",
-		"ver_id": "english",
+		"ver_id": "english-Hi6",
 		"title": "Hi6 load estimation Function Manual",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -660,7 +686,7 @@
 	},
 	{
 		"book_id": "doc-load-estimation",
-		"ver_id": "english",
+		"ver_id": "english-Hi7",
 		"title": "Hi7 load estimation Function Manual",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1140,6 +1166,27 @@
       	},
 		"visible": false
 	},
+	{
+		"book_id": "doc-monopump",
+		"ver_id": "english-Hi6",
+		"title": "Hi6 Robot Controller Operation Manual - Monopump Sealer Gun",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+    },
+	{
+		"book_id": "doc-monopump",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Operation Manual - Monopump Sealer Gun",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      	},
+		"visible": false
+    },
 	{
 		"book_id": "doc-hi6-ladder-edit",
 		"ver_id": "korean-Hi6",
