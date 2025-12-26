@@ -1491,7 +1491,17 @@
 			"cont_model": "Hi6"
 		}
     },
-	 {
+	{
+        "book_id": "doc-open-stream",
+        "ver_id": "korean-Hi7",
+		"title": "Hi7 Open Stream 설명서",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		},
+		"visible": false
+    },
+	{
         "book_id": "doc-open-stream",
         "ver_id": "english-Hi6",
 		"title": "Hi6 Open Stream Manual",
@@ -1502,12 +1512,11 @@
     },
 	{
         "book_id": "doc-open-stream",
-        "ver_id": "korean-Hi7",
-		"title": "Hi7 Open Stream 설명서",
+        "ver_id": "english-Hi7",
+		"title": "Hi7 Open Stream Manual",
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
     }
 ]
