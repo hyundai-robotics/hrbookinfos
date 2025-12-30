@@ -123,29 +123,40 @@
 		"ver_id": "korean",
 		"title": "Hi6/Hi7 로봇제어기 기능설명서 - 산업용 통신",
 		"products": [ "hi6", "hi7" ],
-		"permission": "public"
-
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
 	},
 	{
 		"book_id": "doc-industrial-communication",
 		"ver_id": "english",
 		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication",
 		"products": [ "hi6", "hi7" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
 	},
 	{
 		"book_id": "doc-industrial-communication",
 		"ver_id": "german",
 		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication (German)",
 		"products": [ "hi6", "hi7" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
 	},
 	{
 		"book_id": "doc-industrial-communication",
 		"ver_id": "chinese",
 		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication (Chinese)",
 		"products": [ "hi6", "hi7" ],
-		"permission": "public"
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
 	},
 	{
 		"book_id": "doc-modbus",
