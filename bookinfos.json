@@ -108,9 +108,9 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "korean",
-		"title": "Hi6/Hi7 로봇제어기 기능설명서 - 산업용 통신",
-		"products": [ "hi6", "hi7" ],
+		"ver_id": "korean-Hi6",
+		"title": "Hi6 로봇제어기 기능설명서 - 산업용 통신",
+		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi6"
@@ -118,9 +118,9 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "english",
-		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication",
-		"products": [ "hi6", "hi7" ],
+		"ver_id": "english-Hi6",
+		"title": "Hi6 Robot Controller Function Manual - Industrial communication",
+		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi6"
@@ -128,9 +128,9 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "german",
-		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication (German)",
-		"products": [ "hi6", "hi7" ],
+		"ver_id": "german-Hi6",
+		"title": "Hi6 Robot Controller Function Manual - Industrial communication (German)",
+		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi6"
@@ -138,12 +138,52 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "chinese",
-		"title": "Hi6/Hi7 Robot Controller Function Manual - Industrial communication (Chinese)",
-		"products": [ "hi6", "hi7" ],
+		"ver_id": "chinese-Hi6",
+		"title": "Hi6 Robot Controller Function Manual - Industrial communication (Chinese)",
+		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 로봇제어기 기능설명서 - 산업용 통신",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Industrial communication",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "german-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Industrial communication (German)",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-industrial-communication",
+		"ver_id": "chinese-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Industrial communication (Chinese)",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
 		}
 	},
 	{
