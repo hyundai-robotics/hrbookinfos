@@ -319,6 +319,27 @@
 		"visible": false
 	},
 	{
+		"book_id": "doc-hi6-auto-backup",
+		"ver_id": "english-Hi6",
+		"title": "Hi6 Robot Controller Function Manual - Auto Backup",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-auto-backup",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Auto Backup",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		},
+		"visible": false
+	},
+	{
 		"book_id": "doc-spot-weld",
 		"ver_id": "korean-Hi6",
 		"title": "Hi6 로봇제어기 기능설명서 - 스폿",
