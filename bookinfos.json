@@ -636,6 +636,48 @@
 		"products": [ "hi5a" ]
 	},
 	{
+		"book_id": "doc-hi6-task-daemon",
+		"ver_id": "korean-Hi6",
+		"title": "Hi6 로봇제어기 기능설명서 - 태스크 데몬 (Task Daemon)",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-task-daemon",
+		"ver_id": "korean-Hi7",
+		"title": "Hi7 로봇제어기 기능설명서 - 태스크 데몬 (Task Daemon)",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		},
+		"visible": false
+	},
+	{
+		"book_id": "doc-hi6-task-daemon",
+		"ver_id": "english-Hi6",
+		"title": "Hi6 Robot Controller Function Manual - Task Daemon",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-task-daemon",
+		"ver_id": "english-Hi7",
+		"title": "Hi7 Robot Controller Function Manual - Task Daemon",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		},
+		"visible": false
+	},
+	{
 		"book_id": "doc-cobot-safety-function",
 		"ver_id": "korean",
 		"title": "협동로봇 안전 기능 설명서",
