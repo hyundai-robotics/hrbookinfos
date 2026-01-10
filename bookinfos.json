@@ -338,7 +338,7 @@
 	},
 	{
 		"book_id": "doc-hi6-auto-backup",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko-Hi6",
 		"title": "Hi6 로봇제어기 기능 설명서 - 자동 백업",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -348,7 +348,7 @@
 	},
 	{
 		"book_id": "doc-hi6-auto-backup",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko-Hi7",
 		"title": "Hi7 로봇제어기 기능 설명서 - 자동 백업",
 		"products": [ "hi7" ],
 		"permission": "public",
