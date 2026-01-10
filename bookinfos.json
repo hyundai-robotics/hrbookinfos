@@ -637,7 +637,7 @@
 	},
 	{
 		"book_id": "doc-hi6-task-daemon",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 로봇제어기 기능 설명서 - 태스크 데몬 (Task Daemon)",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -647,7 +647,7 @@
 	},
 	{
 		"book_id": "doc-hi6-task-daemon",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 로봇제어기 기능 설명서 - 태스크 데몬 (Task Daemon)",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -658,7 +658,7 @@
 	},
 	{
 		"book_id": "doc-hi6-task-daemon",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Robot Controller Function Manual - Task Daemon",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -668,7 +668,7 @@
 	},
 	{
 		"book_id": "doc-hi6-task-daemon",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Robot Controller Function Manual - Task Daemon",
 		"products": [ "hi7" ],
 		"permission": "public",
