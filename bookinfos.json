@@ -359,7 +359,7 @@
 	},
 	{
 		"book_id": "doc-hi6-auto-backup",
-		"ver_id": "english-Hi6",
+		"ver_id": "en-Hi6",
 		"title": "Hi6 Robot Controller Function Manual - Auto Backup",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -369,7 +369,7 @@
 	},
 	{
 		"book_id": "doc-hi6-auto-backup",
-		"ver_id": "english-Hi7",
+		"ver_id": "en-Hi7",
 		"title": "Hi7 Robot Controller Function Manual - Auto Backup",
 		"products": [ "hi7" ],
 		"permission": "public",
