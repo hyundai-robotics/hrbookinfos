@@ -230,8 +230,8 @@
 	},
 	{
 		"book_id": "doc-hi6-embedded-plc",
-		"ver_id": "korean-Hi6",
-		"title": "Hi6 로봇제어기 기능 설명서 - 내장 PLC",
+		"ver_id": "ko",
+		"title": "Hi6 제어기 기능 설명서 - 내장 PLC",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -241,8 +241,8 @@
 	},
 	{
 		"book_id": "doc-hi6-embedded-plc",
-		"ver_id": "korean-Hi7",
-		"title": "Hi7 로봇제어기 기능 설명서 - 내장 PLC",
+		"ver_id": "ko",
+		"title": "Hi7 제어기 기능 설명서 - 내장 PLC",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -252,8 +252,8 @@
 	},
 	{
 		"book_id": "doc-hi6-embedded-plc",
-		"ver_id": "english-Hi6",
-		"title": "Hi6 Robot Controller Function Manual - Embedded PLC",
+		"ver_id": "en",
+		"title": "Hi6 Controller Function Manual - Embedded PLC",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -262,8 +262,8 @@
 	},
 	{
 		"book_id": "doc-hi6-embedded-plc",
-		"ver_id": "english-Hi7",
-		"title": "Hi7 Robot Controller Function Manual - Embedded PLC",
+		"ver_id": "en",
+		"title": "Hi7 Controller Function Manual - Embedded PLC",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
