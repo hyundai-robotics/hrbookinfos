@@ -273,7 +273,7 @@
 	},
 	{
 		"book_id": "doc-multi-task",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 멀티태스킹",
 		"products": [ "hi6" ],
 		"variables": {
@@ -282,7 +282,7 @@
 	},
 	{
 		"book_id": "doc-multi-task",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 멀티태스킹",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -293,7 +293,7 @@
 	},
 	{
 		"book_id": "doc-multi-task",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Multitasking",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -303,7 +303,7 @@
 	},
 	{
 		"book_id": "doc-multi-task",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Multitasking",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -735,7 +735,7 @@
 	},
 	{
 		"book_id": "doc-sensor-sync",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 센서동기",
 		"products": [ "hi6" ],		
 		"permission": "public",
@@ -745,7 +745,7 @@
 	},
 		{
 		"book_id": "doc-sensor-sync",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 센서동기",
 		"products": [ "hi7" ],		
 		"permission": "public",
@@ -756,7 +756,7 @@
 	},
 	{
 		"book_id": "doc-sensor-sync",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Sensor Synchronization",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -766,7 +766,7 @@
 	},
 	{
 		"book_id": "doc-sensor-sync",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Sensor Synchronization",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -819,7 +819,7 @@
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 프로그램 예약 실행",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -829,7 +829,7 @@
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 프로그램 예약 실행",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -840,7 +840,7 @@
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Reserved Program Execution",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -850,7 +850,7 @@
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Reserved Program Execution",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -903,7 +903,7 @@
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 큐브간섭검지",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -913,7 +913,7 @@
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 큐브간섭검지",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -924,7 +924,7 @@
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Cube Interference Check",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -934,7 +934,7 @@
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Cube Interference Check",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -945,7 +945,7 @@
 	},
 	{
 		"book_id": "doc-hi6-mastering",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 마스터링",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -955,7 +955,7 @@
 	},
 	{
 		"book_id": "doc-hi6-mastering",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 마스터링",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -966,7 +966,7 @@
 	},
 	{
 		"book_id": "doc-hi6-mastering",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Mastering",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -976,7 +976,7 @@
 	},
 	{
 		"book_id": "doc-hi6-mastering",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Mastering",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1141,8 +1141,8 @@
     },
     {
         "book_id": "doc-hi6-pickit",
-		"ver_id": "korean-Hi6",
-		"title": "Hi6 제어기 플러그인 설명서 - Pick-it",
+		"ver_id": "ko",
+		"title": "Hi6 제어기 기능 설명서 - Pick-it 플러그인",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -1151,8 +1151,8 @@
 	},
 	{
         "book_id": "doc-hi6-pickit",
-		"ver_id": "korean-Hi7",
-		"title": "Hi7 제어기 플러그인 설명서 - Pick-it",
+		"ver_id": "ko",
+		"title": "Hi7 제어기 기능 설명서 - Pick-it 플러그인",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -1162,8 +1162,8 @@
 	},
     {
         "book_id": "doc-hi6-pickit",
-		"ver_id": "english-Hi6",
-		"title": "Hi6 Controller Plugin Manual - Pick-it",
+		"ver_id": "en",
+		"title": "Hi6 Controller Function Manual - Pick-it Plugin",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -1172,8 +1172,8 @@
 	},
 	{
         "book_id": "doc-hi6-pickit",
-		"ver_id": "english-Hi7",
-		"title": "Hi7 Controller Plugin Manual - Pick-it",
+		"ver_id": "en",
+		"title": "Hi7 Controller Function Manual - Pick-it Plugin",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -1253,7 +1253,7 @@
     },
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - NTP 시간 동기화",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1263,7 +1263,7 @@
     },
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - NTP 시간 동기화",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1274,7 +1274,7 @@
     },
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - NTP Time Synchronization",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1284,7 +1284,7 @@
     },
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - NTP Time Synchronization",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1295,7 +1295,7 @@
     },
 	{
 		"book_id": "doc-monopump",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 모노펌프 실러건",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1305,7 +1305,7 @@
 	},
 	{
 		"book_id": "doc-monopump",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 모노펌프 실러건",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1316,7 +1316,7 @@
 	},
 	{
 		"book_id": "doc-monopump",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Monopump Sealer Gun",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1326,7 +1326,7 @@
     },
 	{
 		"book_id": "doc-monopump",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Monopump Sealer Gun",
 		"products": [ "hi7" ],
 		"permission": "public",
