@@ -1538,7 +1538,7 @@
 	},
 	{
         "book_id": "doc-hi6-softjoint",
-        "ver_id": "korean-Hi6",
+        "ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 소프트 조인트",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1548,7 +1548,7 @@
     },
 	{
         "book_id": "doc-hi6-softjoint",
-        "ver_id": "korean-Hi7",
+        "ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 소프트 조인트",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1559,7 +1559,7 @@
     },
 	{
         "book_id": "doc-hi6-softjoint",
-        "ver_id": "english-Hi6",
+        "ver_id": "en",
 		"title": "Hi6 Controller Function Manual - SoftJoint",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1569,7 +1569,7 @@
     },
 	{
         "book_id": "doc-hi6-softjoint",
-        "ver_id": "english-Hi7",
+        "ver_id": "en",
 		"title": "Hi7 Controller Function Manual - SoftJoint",
 		"products": [ "hi7" ],
 		"permission": "public",
