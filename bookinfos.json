@@ -380,7 +380,7 @@
 	},
 	{
 		"book_id": "doc-spot-weld",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 스폿용접",
 		"products": [ "hi6" ],
 		"variables": {
@@ -389,7 +389,7 @@
 	},
 	{
 		"book_id": "doc-spot-weld",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 스폿용접",
 		"products": [ "hi7" ],
 		"variables": {
@@ -399,7 +399,7 @@
 	},
 	{
 		"book_id": "doc-spot-weld",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Spot Welding",
 		"products": [ "hi6" ],
 		"variables": {
@@ -408,7 +408,7 @@
 	},
 	{
 		"book_id": "doc-spot-weld",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Spot Welding",
 		"products": [ "hi7" ],
 		"variables": {
@@ -418,7 +418,7 @@
 	},
 	{
 		"book_id": "doc-add-axes",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 부가축",
 		"products": [ "hi6" ],
 		"variables": {
@@ -427,7 +427,7 @@
 	},
 	{
 		"book_id": "doc-add-axes",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 부가축",
 		"products": [ "hi7" ],
 		"variables": {
@@ -437,7 +437,7 @@
 	},
 	{
 		"book_id": "doc-add-axes",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Additional Axes",
 		"products": [ "hi6" ],
 		"variables": {
@@ -446,7 +446,7 @@
 	},
 	{
 		"book_id": "doc-add-axes",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Additional Axes",
 		"products": [ "hi7" ],
 		"variables": {
@@ -456,7 +456,7 @@
 	},
 	{
 		"book_id": "doc-arc-weld",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 아크용접",
 		"products": [ "hi6" ],
 		"variables": {
@@ -465,7 +465,7 @@
 	},
 	{
 		"book_id": "doc-arc-weld",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 아크용접",
 		"products": [ "hi7" ],
 		"variables": {
@@ -475,7 +475,7 @@
 	},
 	{
 		"book_id": "doc-arc-weld",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Arc Welding",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -485,7 +485,7 @@
 	},
 	{
 		"book_id": "doc-arc-weld",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Arc Welding",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -496,7 +496,7 @@
 	},
     {
 		"book_id": "doc-positioner-sync",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 포지셔너 동기",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -506,7 +506,7 @@
 	},
 	{
 		"book_id": "doc-positioner-sync",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 포지셔너 동기",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -517,7 +517,7 @@
 	},
 	{
 		"book_id": "doc-positioner-sync",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Positioner Synchronization",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -527,7 +527,7 @@
 	},
 	{
 		"book_id": "doc-positioner-sync",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Positioner Synchronization",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -861,7 +861,7 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 서보툴 체인지",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -871,7 +871,7 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 서보툴 체인지",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -882,7 +882,7 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Servo Tool Change",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -892,7 +892,7 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Servo Tool Change",
 		"products": [ "hi7" ],
 		"permission": "public",
