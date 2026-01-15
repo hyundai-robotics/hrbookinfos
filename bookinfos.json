@@ -108,7 +108,7 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 산업용 통신",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -118,7 +118,7 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Industrial communication",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -148,7 +148,7 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 산업용 통신",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -158,7 +158,7 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Industrial communication",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -188,7 +188,7 @@
 	},
 	{
 		"book_id": "doc-modbus",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 모드버스",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -198,7 +198,7 @@
 	},
 	{
 		"book_id": "doc-modbus",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 모드버스",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -209,7 +209,7 @@
 	},
 	{
 		"book_id": "doc-modbus",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Modbus",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -219,7 +219,7 @@
 	},
 	{
 		"book_id": "doc-modbus",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Modbus",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -392,7 +392,7 @@
 	},
 	{
 		"book_id": "doc-spot-weld",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 스폿용접",
 		"products": [ "hi6" ],
 		"variables": {
@@ -401,7 +401,7 @@
 	},
 	{
 		"book_id": "doc-spot-weld",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 스폿용접",
 		"products": [ "hi7" ],
 		"variables": {
@@ -411,7 +411,7 @@
 	},
 	{
 		"book_id": "doc-spot-weld",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Spot Welding",
 		"products": [ "hi6" ],
 		"variables": {
@@ -420,7 +420,7 @@
 	},
 	{
 		"book_id": "doc-spot-weld",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Spot Welding",
 		"products": [ "hi7" ],
 		"variables": {
@@ -430,7 +430,7 @@
 	},
 	{
 		"book_id": "doc-add-axes",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 부가축",
 		"products": [ "hi6" ],
 		"variables": {
@@ -439,7 +439,7 @@
 	},
 	{
 		"book_id": "doc-add-axes",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 부가축",
 		"products": [ "hi7" ],
 		"variables": {
@@ -449,7 +449,7 @@
 	},
 	{
 		"book_id": "doc-add-axes",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Additional Axes",
 		"products": [ "hi6" ],
 		"variables": {
@@ -458,7 +458,7 @@
 	},
 	{
 		"book_id": "doc-add-axes",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Additional Axes",
 		"products": [ "hi7" ],
 		"variables": {
@@ -468,7 +468,7 @@
 	},
 	{
 		"book_id": "doc-arc-weld",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 아크용접",
 		"products": [ "hi6" ],
 		"variables": {
@@ -477,7 +477,7 @@
 	},
 	{
 		"book_id": "doc-arc-weld",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 아크용접",
 		"products": [ "hi7" ],
 		"variables": {
@@ -487,7 +487,7 @@
 	},
 	{
 		"book_id": "doc-arc-weld",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Arc Welding",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -497,7 +497,7 @@
 	},
 	{
 		"book_id": "doc-arc-weld",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Arc Welding",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -508,7 +508,7 @@
 	},
     {
 		"book_id": "doc-positioner-sync",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 포지셔너 동기",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -518,7 +518,7 @@
 	},
 	{
 		"book_id": "doc-positioner-sync",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 포지셔너 동기",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -529,7 +529,7 @@
 	},
 	{
 		"book_id": "doc-positioner-sync",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Positioner Synchronization",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -539,7 +539,7 @@
 	},
 	{
 		"book_id": "doc-positioner-sync",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Positioner Synchronization",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -705,7 +705,7 @@
 	},
 	{
 		"book_id": "doc-hi6-sdk",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - SDK",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -715,7 +715,7 @@
 	},
 	{
 		"book_id": "doc-hi6-sdk",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - SDK",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -726,7 +726,7 @@
 	},
 	{
 		"book_id": "doc-hi6-sdk",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - SDK",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -736,7 +736,7 @@
 	},
 	{
 		"book_id": "doc-hi6-sdk",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - SDK",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -789,7 +789,7 @@
 	},
 	{
 		"book_id": "doc-load-estimation",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 부하추정",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -799,18 +799,18 @@
 	},
 	{
 		"book_id": "doc-load-estimation",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 부하추정",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
       	},
-		"visible": false
+		"visible": true
 	},
 	{
 		"book_id": "doc-load-estimation",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Load Estimation",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -820,14 +820,14 @@
 	},
 	{
 		"book_id": "doc-load-estimation",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Load Estimation",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
       	},
-		"visible": false
+		"visible": true
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
@@ -873,7 +873,7 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 서보툴 체인지",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -883,7 +883,7 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 서보툴 체인지",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -894,7 +894,7 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Servo Tool Change",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -904,7 +904,7 @@
 	},
 	{
 		"book_id": "doc-svtool-change",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Servo Tool Change",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -999,7 +999,7 @@
 	},
 	{
 		"book_id": "doc-hi6-open-api",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - Open API",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1009,7 +1009,7 @@
 	},
 	{
 		"book_id": "doc-hi6-open-api",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - Open API",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1020,7 +1020,7 @@
 	},
 	{
         "book_id": "doc-hi6-open-api",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Open API",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1030,7 +1030,7 @@
 	},
 	{
         "book_id": "doc-hi6-open-api",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Open API",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1055,7 +1055,7 @@
 	},
 	{
 		"book_id": "doc-cooperation",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 협조제어",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1065,7 +1065,7 @@
 	},
 	{
 		"book_id": "doc-cooperation",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 협조제어",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1076,7 +1076,7 @@
 	},
 	{
         "book_id": "doc-cooperation",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Cooperation Control",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1086,7 +1086,7 @@
 	},
 	{
         "book_id": "doc-cooperation",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Cooperation Control",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1097,7 +1097,7 @@
 	},
     {
 		"book_id": "doc-endless",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 엔드리스",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1107,7 +1107,7 @@
 	},
 	{
 		"book_id": "doc-endless",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 엔드리스",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1118,7 +1118,7 @@
 	},
 	{
 		"book_id": "doc-endless",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Endless",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1128,7 +1128,7 @@
 	},
 	{
 		"book_id": "doc-endless",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Endless",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1349,7 +1349,7 @@
     },
 	{
 		"book_id": "doc-hi6-ladder-edit",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 래더 편집 (Ladder Edit)",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1359,7 +1359,7 @@
 	},
 	{
 		"book_id": "doc-hi6-ladder-edit",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 래더 편집 (Ladder Edit)",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1370,7 +1370,7 @@
 	},
 	{
 		"book_id": "doc-hi6-ladder-edit",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Ladder Edit",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1379,7 +1379,7 @@
       	}
 	},{
 		"book_id": "doc-hi6-ladder-edit",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Ladder Edit",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1397,7 +1397,7 @@
 	},
 	{
 		"book_id": "doc-hi6-force-control",
-		"ver_id": "korean-Hi6",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 센서 기반 힘 제어",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1407,7 +1407,7 @@
 	},
 	{
 		"book_id": "doc-hi6-force-control",
-		"ver_id": "korean-Hi7",
+		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 센서 기반 힘 제어",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1418,7 +1418,7 @@
 	},
 	{
 		"book_id": "doc-hi6-force-control",
-		"ver_id": "english-Hi6",
+		"ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Force Control with Sensors",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1428,7 +1428,7 @@
 	},
 	{
 		"book_id": "doc-hi6-force-control",
-		"ver_id": "english-Hi7",
+		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Force Control with Sensors",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1592,7 +1592,7 @@
     },
 	{
         "book_id": "doc-hi6-softxyz",
-        "ver_id": "korean-Hi6",
+        "ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 소프트 XYZ",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1602,7 +1602,7 @@
     }, 
 	{
         "book_id": "doc-hi6-softxyz",
-        "ver_id": "korean-Hi7",
+        "ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 소프트 XYZ",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1613,7 +1613,7 @@
     }, 
 	{
         "book_id": "doc-hi6-softxyz",
-        "ver_id": "english-Hi6",
+        "ver_id": "en",
 		"title": "Hi6 Controller Function Manual - SoftXYZ",
 		"products": [ "hi6" ],
 		"permission": "public",
@@ -1623,7 +1623,7 @@
     },
 	{
         "book_id": "doc-hi6-softxyz",
-        "ver_id": "english-Hi7",
+        "ver_id": "en",
 		"title": "Hi7 Controller Function Manual - SoftXYZ",
 		"products": [ "hi7" ],
 		"permission": "public",
@@ -1644,7 +1644,7 @@
     },
 	{
         "book_id": "doc-open-stream",
-        "ver_id": "korean-Hi6",
+        "ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - Open Stream",
 		"products": [ "hi6" ],
 		"variables": {
@@ -1653,7 +1653,7 @@
     },
 	{
         "book_id": "doc-open-stream",
-        "ver_id": "korean-Hi7",
+        "ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - Open Stream",
 		"products": [ "hi7" ],
 		"variables": {
@@ -1663,7 +1663,7 @@
     },
 	{
         "book_id": "doc-open-stream",
-        "ver_id": "english-Hi6",
+        "ver_id": "en",
 		"title": "Hi6 Controller Function Manual - Open Stream",
 		"products": [ "hi6" ],
 		"variables": {
@@ -1672,7 +1672,7 @@
     },
 	{
         "book_id": "doc-open-stream",
-        "ver_id": "english-Hi7",
+        "ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Open Stream",
 		"products": [ "hi7" ],
 		"variables": {
