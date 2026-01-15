@@ -337,6 +337,18 @@
 		"products": [ "common" ]
 	},
 	{
+		"book_id": "doc-manual-warning",
+		"ver_id": "ko",
+		"title": "설명서 경고 (공통)",
+		"products": [ "common" ]
+	},
+	{
+		"book_id": "doc-manual-warning",
+		"ver_id": "en",
+		"title": "Manual Warning",
+		"products": [ "common" ]
+	},
+	{
 		"book_id": "doc-hi6-auto-backup",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 자동 백업",
