@@ -84,8 +84,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hrscript",
@@ -103,8 +102,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-industrial-communication",
@@ -204,8 +202,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-modbus",
@@ -225,8 +222,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hi6-embedded-plc",
@@ -247,8 +243,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hi6-embedded-plc",
@@ -268,8 +263,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-multi-task",
@@ -288,8 +282,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-multi-task",
@@ -309,8 +302,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "rules-on-occupational-safety-and-health-standards",
@@ -366,8 +358,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hi6-auto-backup",
@@ -387,8 +378,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-spot-weld",
@@ -406,8 +396,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-spot-weld",
@@ -425,8 +414,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-add-axes",
@@ -444,8 +432,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-add-axes",
@@ -463,8 +450,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-arc-weld",
@@ -482,8 +468,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-arc-weld",
@@ -503,8 +488,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
     {
 		"book_id": "doc-positioner-sync",
@@ -524,8 +508,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-positioner-sync",
@@ -545,8 +528,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hi6-tp-app",
@@ -564,8 +546,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hi6-tp-app",
@@ -583,8 +564,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "page-product",
@@ -665,8 +645,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hi6-task-daemon",
@@ -686,8 +665,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-cobot-safety-function",
@@ -721,8 +699,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-hi6-sdk",
@@ -742,8 +719,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-sensor-sync",
@@ -763,8 +739,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-sensor-sync",
@@ -784,8 +759,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-load-estimation",
@@ -805,8 +779,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": true
+      }
 	},
 	{
 		"book_id": "doc-load-estimation",
@@ -816,7 +789,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi6"
-      	}
+      }
 	},
 	{
 		"book_id": "doc-load-estimation",
@@ -826,8 +799,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": true
+     	}
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
@@ -837,7 +809,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi6"
-      	}
+      }
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
@@ -847,8 +819,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-reserved-program-execution",
@@ -868,8 +839,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-svtool-change",
@@ -889,8 +859,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-svtool-change",
@@ -910,8 +879,7 @@
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
@@ -931,8 +899,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-hi6-cube-interference",
@@ -952,8 +919,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-hi6-mastering",
@@ -973,8 +939,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-hi6-mastering",
@@ -994,8 +959,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-hi6-open-api",
@@ -1015,8 +979,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
         "book_id": "doc-hi6-open-api",
@@ -1036,8 +999,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-safespace2.0",
@@ -1071,8 +1033,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
         "book_id": "doc-cooperation",
@@ -1092,8 +1053,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
     {
 		"book_id": "doc-endless",
@@ -1113,8 +1073,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-endless",
@@ -1134,8 +1093,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
         "book_id": "doc-us220-maintenance",
@@ -1169,8 +1127,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
     {
         "book_id": "doc-hi6-pickit",
@@ -1190,8 +1147,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
         "book_id": "doc-hs220-maintenance",
@@ -1281,8 +1237,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
     },
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
@@ -1302,8 +1257,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
     },
 	{
 		"book_id": "doc-monopump",
@@ -1323,8 +1277,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-monopump",
@@ -1344,8 +1297,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
     },
 	{
 		"book_id": "doc-hi6-ladder-edit",
@@ -1365,8 +1317,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-hi6-ladder-edit",
@@ -1385,8 +1336,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-hi6-troubleshoot",
@@ -1413,8 +1363,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-hi6-force-control",
@@ -1434,8 +1383,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
 	},
 	{
 		"book_id": "doc-ros2-driver",
@@ -1592,8 +1540,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
     },
 	{
         "book_id": "doc-hi6-softjoint",
@@ -1613,8 +1560,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
     },
 	{
         "book_id": "doc-hi6-softxyz",
@@ -1634,8 +1580,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
     }, 
 	{
         "book_id": "doc-hi6-softxyz",
@@ -1655,8 +1600,7 @@
 		"permission": "public",
 		"variables": {
         	"cont_model": "Hi7"
-      	},
-		"visible": false
+      }
     },
 	{
         "book_id": "doc-hi7-troubleshoot",
@@ -1684,8 +1628,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
     },
 	{
         "book_id": "doc-open-stream",
@@ -1703,8 +1646,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
     },
 	{
 		"book_id": "doc-hi6-operation",
