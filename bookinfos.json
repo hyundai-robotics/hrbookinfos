@@ -1399,7 +1399,7 @@
 		"book_id": "doc-ros2-driver",
 		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - ROS2 드라이버",
-		"products": [ "hi7" ],
+		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
 			"cont_model": "Hi7"
