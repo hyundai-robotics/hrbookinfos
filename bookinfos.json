@@ -1038,7 +1038,7 @@
 	{
         "book_id": "doc-cooperation",
 		"ver_id": "en",
-		"title": "Hi6 Controller Function Manual - Cooperation Control",
+		"title": "Hi6 Controller Function Manual - Cooperative Control",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -1048,7 +1048,7 @@
 	{
         "book_id": "doc-cooperation",
 		"ver_id": "en",
-		"title": "Hi7 Controller Function Manual - Cooperation Control",
+		"title": "Hi7 Controller Function Manual - Cooperative Control",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
