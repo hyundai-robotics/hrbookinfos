@@ -924,7 +924,7 @@
 	{
 		"book_id": "doc-hi6-mastering",
 		"ver_id": "ko",
-		"title": "Hi6 제어기 기능 설명서 - 마스터링",
+		"title": "Hi6 제어기 기능 설명서 - 접촉식 센서 기반 마스터링",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -934,7 +934,7 @@
 	{
 		"book_id": "doc-hi6-mastering",
 		"ver_id": "ko",
-		"title": "Hi7 제어기 기능 설명서 - 마스터링",
+		"title": "Hi7 제어기 기능 설명서 - 접촉식 센서 기반 마스터링",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -944,7 +944,7 @@
 	{
 		"book_id": "doc-hi6-mastering",
 		"ver_id": "en",
-		"title": "Hi6 Controller Function Manual - Mastering",
+		"title": "Hi6 Controller Function Manual - Mastering based on digital contact sensor",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -954,7 +954,7 @@
 	{
 		"book_id": "doc-hi6-mastering",
 		"ver_id": "en",
-		"title": "Hi7 Controller Function Manual - Mastering",
+		"title": "Hi7 Controller Function Manual - Mastering based on digital contact sensor",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -1222,7 +1222,7 @@
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
 		"ver_id": "ko",
-		"title": "Hi6 제어기 기능 설명서 - NTP 시간 동기화",
+		"title": "Hi6 제어기 기능 설명서 - NTP 클라이언트 시간 동기화",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -1232,7 +1232,7 @@
 	{
 		"book_id": "doc-hi6-ntp-time-synchronization",
 		"ver_id": "ko",
-		"title": "Hi7 제어기 기능 설명서 - NTP 시간 동기화",
+		"title": "Hi7 제어기 기능 설명서 - NTP 클라이언트 시간 동기화",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
