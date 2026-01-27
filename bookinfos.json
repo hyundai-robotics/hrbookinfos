@@ -71,7 +71,7 @@
 	{
 		"book_id": "doc-hrscript",
 		"ver_id": "ko",
-		"title": "Hi6 기능 설명서 - 로봇언어 HRScript",
+		"title": "Hi6 제어기 기능 설명서 - 로봇언어 HRScript",
 		"products": [ "hi6" ],
 		"variables": {
 			"cont_model": "Hi6"
@@ -80,7 +80,7 @@
 	{
 		"book_id": "doc-hrscript",
 		"ver_id": "ko",
-		"title": "Hi7 기능 설명서 - 로봇언어 HRScript",
+		"title": "Hi7 제어기 기능 설명서 - 로봇언어 HRScript",
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
@@ -89,7 +89,7 @@
 	{
 		"book_id": "doc-hrscript",
 		"ver_id": "en",
-		"title": "Hi6 Function Manual - Robot Language HRScript",
+		"title": "Hi6 Controller Function Manual - Robot Language HRScript",
 		"products": [ "hi6" ],
 		"variables": {
 			"cont_model": "Hi6"
@@ -98,7 +98,7 @@
 	{
 		"book_id": "doc-hrscript",
 		"ver_id": "en",
-		"title": "Hi7 Function Manual - Robot Language HRScript",
+		"title": "Hi7 Controller Function Manual - Robot Language HRScript",
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
