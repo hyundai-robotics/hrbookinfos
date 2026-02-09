@@ -1388,42 +1388,16 @@
 	{
 		"book_id": "doc-ros2-driver",
 		"ver_id": "ko",
-		"title": "Hi6 제어기 기능 설명서 - ROS2 드라이버",
-		"products": [ "hi6" ],
-		"permission": "public",
-		"variables": {
-    	"cont_model": "Hi7"
-		}
-	},
-	{
-		"book_id": "doc-ros2-driver",
-		"ver_id": "ko",
-		"title": "Hi7 제어기 기능 설명서 - ROS2 드라이버",
-		"products": [ "hi6" ],
-		"permission": "public",
-		"variables": {
-			"cont_model": "Hi7"
-		}
+		"title": "Hi6 & Hi7 제어기 기능 설명서 - ROS2 드라이버",
+		"products": [ "common" ],
+		"permission": "public"
 	},
 	{
 		"book_id": "doc-ros2-driver",
 		"ver_id": "en",
-		"title": "Hi6 Controller Function Manual - ROS2 Driver",
-		"products": [ "hi6" ],
-		"permission": "public",
-		"variables": {
-      "cont_model": "Hi6"
-		}
-	},
-	{
-		"book_id": "doc-ros2-driver",
-		"ver_id": "en",
-		"title": "Hi7 Controller Function Manual - ROS2 Driver",
-		"products": [ "hi7" ],
-		"permission": "public",
-		"variables": {
-      "cont_model": "Hi7"
-		}
+		"title": "Hi6 & Hi7 Controller Function Manual - ROS2 Driver",
+		"products": [ "common" ],
+		"permission": "public"
 	},
 	{
 		"book_id": "doc-hi6a-n-maintenance",
