@@ -1339,7 +1339,7 @@
 	},
 	{
 		"book_id": "doc-hi6-troubleshoot",
-		"ver_id": "korean",
+		"ver_id": "ko",
 		"title": "Hi6 제어기 트러블슈팅 매뉴얼",
 		"products": [ "hi6" ],
 		"permission": "public"
@@ -1570,13 +1570,10 @@
     },
 	{
         "book_id": "doc-hi7-troubleshoot",
-        "ver_id": "korean",
+        "ver_id": "ko",
 		"title": "Hi7 제어기 트러블슈팅 매뉴얼",
 		"products": [ "hi7" ],
-		"permission": "public",
-		"variables": {
-        	"cont_model": "Hi7"
-      	}
+		"permission": "public"
     },
 	{
         "book_id": "doc-open-stream",
