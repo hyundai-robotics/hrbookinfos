@@ -15,8 +15,7 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
 	},
 	{
 		"book_id": "doc-hi6-operation",
@@ -1417,13 +1416,6 @@
 		"book_id": "doc-userDIO-ExtensionDIO",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO",
-		"products": [ "hi7" ],
-		"permission": "public"
-	},
-	{
-		"book_id": "doc-hi6-operation",
-		"ver_id": "korean-hi6a-tp630",
-		"title": "Hi7 제어기 조작 설명서 - TP630",
 		"products": [ "hi7" ],
 		"permission": "public"
 	},
