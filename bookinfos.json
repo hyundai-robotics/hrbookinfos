@@ -452,6 +452,24 @@
 		}
 	},
 	{
+		"book_id": "doc-add-axes",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 附加轴",
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-add-axes",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 附加轴",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
 		"book_id": "doc-arc-weld",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 아크용접",
@@ -483,6 +501,26 @@
 		"book_id": "doc-arc-weld",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Arc Welding",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-arc-weld",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - Arc Welding",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-arc-weld",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - Arc Welding",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
