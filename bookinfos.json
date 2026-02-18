@@ -104,6 +104,24 @@
 		}
 	},
 	{
+		"book_id": "doc-hrscript",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - HRScript",
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hrscript",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - HRScript",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
 		"book_id": "doc-industrial-communication",
 		"ver_id": "ko-Hi6",
 		"title": "Hi6 제어기 기능 설명서 - 산업용 통신",
@@ -224,6 +242,26 @@
 		}
 	},
 	{
+		"book_id": "doc-modbus",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - Modbus",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-modbus",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - Modbus",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
 		"book_id": "doc-hi6-embedded-plc",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 내장 PLC",
@@ -265,6 +303,26 @@
 		}
 	},
 	{
+		"book_id": "doc-hi6-embedded-plc",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 嵌入式 PLC",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-embedded-plc",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 嵌入式 PLC",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
 		"book_id": "doc-multi-task",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 멀티태스킹",
@@ -297,6 +355,26 @@
 		"book_id": "doc-multi-task",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Multitasking",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-multi-task",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 多任务处理",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-multi-task",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 多任务处理",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -380,6 +458,26 @@
 		}
 	},
 	{
+		"book_id": "doc-hi6-auto-backup",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 自动备份",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-auto-backup",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 自动备份",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
 		"book_id": "doc-spot-weld",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 스폿용접",
@@ -410,6 +508,24 @@
 		"book_id": "doc-spot-weld",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Spot Welding",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-spot-weld",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 点焊",
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-spot-weld",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 点焊",
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
@@ -561,6 +677,26 @@
 		"book_id": "doc-positioner-sync",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Positioner Synchronization",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-positioner-sync",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 位置同步",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-positioner-sync",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 位置同步",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
