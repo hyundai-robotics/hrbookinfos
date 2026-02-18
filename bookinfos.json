@@ -740,6 +740,24 @@
 		}
 	},
 	{
+		"book_id": "doc-hi6-tp-app",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 教学挂件应用",
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-tp-app",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 教学挂件应用",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
 		"book_id": "page-product",
 		"ver_id": "korean",
 		"title": "제품 - 산업용로봇",
@@ -841,6 +859,26 @@
 		}
 	},
 	{
+		"book_id": "doc-hi6-task-daemon",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 任务守护程序",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-task-daemon",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 任务守护程序",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
 		"book_id": "doc-cobot-safety-function",
 		"ver_id": "korean",
 		"title": "협동로봇 안전 기능 설명서",
@@ -895,6 +933,26 @@
       }
 	},
 	{
+		"book_id": "doc-hi6-sdk",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 任务守护程序",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-sdk",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 任务守护程序",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
+	{
 		"book_id": "doc-sensor-sync",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 센서동기",
@@ -928,6 +986,26 @@
 		"book_id": "doc-sensor-sync",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Sensor Synchronization",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-sensor-sync",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 传感器同步 (输送机，压力机)",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-sensor-sync",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 传感器同步 (输送机，压力机)",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -975,6 +1053,26 @@
      	}
 	},
 	{
+		"book_id": "doc-load-estimation",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 负载估计",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      }
+	},
+	{
+		"book_id": "doc-load-estimation",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 负载估计",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+     	}
+	},
+	{
 		"book_id": "doc-reserved-program-execution",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 프로그램 예약 실행",
@@ -1015,6 +1113,26 @@
 		}
 	},
 	{
+		"book_id": "doc-reserved-program-execution",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 保留程序执行",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-reserved-program-execution",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 保留程序执行",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
 		"book_id": "doc-svtool-change",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 서보툴 체인지",
@@ -1048,6 +1166,26 @@
 		"book_id": "doc-svtool-change",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Servo Tool Change",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-svtool-change",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 伺服工具更换",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-svtool-change",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 伺服工具更换",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
