@@ -33,8 +33,25 @@
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
-		},
-		"visible": false
+		}
+	},
+	{
+		"book_id": "doc-hi6-operation",
+		"ver_id": "zh-tp630",
+		"title": "Hi6 控制器 操作手册 - TP630",
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-hi6-operation",
+		"ver_id": "zh-tp630",
+		"title": "Hi7 控制器 操作手册 - TP630",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	},
 	{
 		"book_id": "doc-hi6-n-maintenance",
@@ -1233,6 +1250,26 @@
       }
 	},
 	{
+		"book_id": "doc-hi6-cube-interference",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 立方体干涉检查",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-cube-interference",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 立方体干涉检查",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
+	{
 		"book_id": "doc-hi6-mastering",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 접촉식 센서 기반 마스터링",
@@ -1273,6 +1310,26 @@
       }
 	},
 	{
+		"book_id": "doc-hi6-mastering",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 基于数字接触传感器的调校",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-mastering",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 基于数字接触传感器的调校",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
+	{
 		"book_id": "doc-hi6-open-api",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - Open API",
@@ -1306,6 +1363,26 @@
         "book_id": "doc-hi6-open-api",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Open API",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
+	{
+    "book_id": "doc-hi6-open-api",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 Function Manual - Open API",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+    "book_id": "doc-hi6-open-api",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 Function Manual - Open API",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
