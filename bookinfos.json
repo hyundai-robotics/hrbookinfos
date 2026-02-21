@@ -73,6 +73,12 @@
 		"products": [ "hi6" ]
 	},
 	{
+		"book_id": "doc-hi6-n-maintenance",
+		"ver_id": "zh",
+		"title": "Hi6-N 控制器 维护手册",
+		"products": [ "hi6" ]
+	},
+	{
 		"book_id": "doc-hi6-t-maintenance",
 		"ver_id": "ko",
 		"title": "Hi6-T 제어기 보수 설명서",
@@ -82,6 +88,12 @@
 		"book_id": "doc-hi6-t-maintenance",
 		"ver_id": "en",
 		"title": "Hi6-T Controller Maintenance Manual",
+		"products": [ "hi6" ]
+	},
+	{
+		"book_id": "doc-hi6-t-maintenance",
+		"ver_id": "zh",
+		"title": "Hi6-T 控制器 维护手册l",
 		"products": [ "hi6" ]
 	},
 	{
@@ -1443,6 +1455,26 @@
         	"cont_model": "Hi7"
       }
 	},
+	{
+    "book_id": "doc-cooperation",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 合作",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+    "book_id": "doc-cooperation",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 合作",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
     {
 		"book_id": "doc-endless",
 		"ver_id": "ko",
@@ -1477,6 +1509,26 @@
 		"book_id": "doc-endless",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Endless",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
+	{
+		"book_id": "doc-endless",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 无尽",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-endless",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 无尽",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -1531,6 +1583,26 @@
         "book_id": "doc-hi6-pickit",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Pick-it Plugin",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
+	{
+    "book_id": "doc-hi6-pickit",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - Pick-it 插件",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+    "book_id": "doc-hi6-pickit",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - Pick-it 插件",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -1648,6 +1720,26 @@
       }
     },
 	{
+		"book_id": "doc-hi6-ntp-time-synchronization",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - NTP 客户端时间同步",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+    },
+	{
+		"book_id": "doc-hi6-ntp-time-synchronization",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - NTP 客户端时间同步",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+    },
+	{
 		"book_id": "doc-monopump",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 모노펌프 실러건",
@@ -1688,6 +1780,26 @@
       }
     },
 	{
+		"book_id": "doc-monopump",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 单泵封口枪",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+    },
+	{
+		"book_id": "doc-monopump",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 单泵封口枪",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+    },
+	{
 		"book_id": "doc-hi6-ladder-edit",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 래더 편집 (Ladder Edit)",
@@ -1720,6 +1832,25 @@
 		"book_id": "doc-hi6-ladder-edit",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Ladder Edit",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
+	{
+		"book_id": "doc-hi6-ladder-edit",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 梯形编辑",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},{
+		"book_id": "doc-hi6-ladder-edit",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 梯形编辑",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -1774,6 +1905,26 @@
       }
 	},
 	{
+		"book_id": "doc-hi6-force-control",
+		"ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - 带传感器的力控制",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+	},
+	{
+		"book_id": "doc-hi6-force-control",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 带传感器的力控制",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+	},
+	{
 		"book_id": "doc-ros2-driver",
 		"ver_id": "ko",
 		"title": "Hi6 & Hi7 제어기 기능 설명서 - ROS2 드라이버",
@@ -1784,6 +1935,13 @@
 		"book_id": "doc-ros2-driver",
 		"ver_id": "en",
 		"title": "Hi6 & Hi7 Controller Function Manual - ROS2 Driver",
+		"products": [ "common" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-ros2-driver",
+		"ver_id": "zh",
+		"title": "Hi6 & Hi7 控制器 功能手册 - ROS2 驱动程序",
 		"products": [ "common" ],
 		"permission": "public"
 	},
@@ -1805,6 +1963,13 @@
 		"book_id": "doc-userDIO-ExtensionDIO",
 		"ver_id": "en",
 		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO",
+		"products": [ "hi7" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-userDIO-ExtensionDIO",
+		"ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - 用户 DIO, 扩展 DIO",
 		"products": [ "hi7" ],
 		"permission": "public"
 	},
@@ -1865,13 +2030,6 @@
 	},
 	{
 		"book_id": "doc-userDIO-ExtensionDIO",
-		"ver_id": "chinese",
-		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO (Chinese)",
-		"products": [ "hi7" ],
-		"permission": "public"
-	},
-	{
-		"book_id": "doc-userDIO-ExtensionDIO",
 		"ver_id": "german",
 		"title": "Hi7 Controller Function Manual - User DIO, Extension DIO (German)",
 		"products": [ "hi7" ],
@@ -1911,6 +2069,26 @@
         "book_id": "doc-hi6-softjoint",
         "ver_id": "en",
 		"title": "Hi7 Controller Function Manual - SoftJoint",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+    },
+	{
+        "book_id": "doc-hi6-softjoint",
+        "ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - SoftJoint",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+    },
+	{
+        "book_id": "doc-hi6-softjoint",
+        "ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - SoftJoint",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -1958,6 +2136,26 @@
       }
     },
 	{
+        "book_id": "doc-hi6-softxyz",
+        "ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - SoftXYZ",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi6"
+      	}
+    },
+	{
+        "book_id": "doc-hi6-softxyz",
+        "ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - SoftXYZ",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+        	"cont_model": "Hi7"
+      }
+    },
+	{
         "book_id": "doc-hi7-troubleshoot",
         "ver_id": "ko",
 		"title": "Hi7 제어기 트러블슈팅 매뉴얼",
@@ -1995,6 +2193,24 @@
         "book_id": "doc-open-stream",
         "ver_id": "en",
 		"title": "Hi7 Controller Function Manual - Open Stream",
+		"products": [ "hi7" ],
+		"variables": {
+			"cont_model": "Hi7"
+		}
+    },
+{
+        "book_id": "doc-open-stream",
+        "ver_id": "zh",
+		"title": "Hi6 控制器 功能手册 - Open Stream",
+		"products": [ "hi6" ],
+		"variables": {
+			"cont_model": "Hi6"
+		}
+    },
+	{
+        "book_id": "doc-open-stream",
+        "ver_id": "zh",
+		"title": "Hi7 控制器 功能手册 - Open Stream",
 		"products": [ "hi7" ],
 		"variables": {
 			"cont_model": "Hi7"
