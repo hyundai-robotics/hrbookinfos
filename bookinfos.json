@@ -97,6 +97,20 @@
 		"products": [ "hi6" ]
 	},
 	{
+		"book_id": "doc-hi7-n-maintenance",
+		"ver_id": "ko",
+		"title": "Hi7-N 제어기 보수 설명서",
+		"products": [ "hi7" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-hi7-n-maintenance",
+		"ver_id": "en",
+		"title": "Hi7-N Controller Maintenance Manual",
+		"products": [ "hi7" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-hrscript",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 로봇언어 HRScript",
@@ -1946,13 +1960,6 @@
 		"permission": "public"
 	},
 	{
-		"book_id": "doc-hi6a-n-maintenance",
-		"ver_id": "ko",
-		"title": "Hi7-N 제어기 보수 설명서",
-		"products": [ "hi7" ],
-		"permission": "public"
-	},
-	{
 		"book_id": "doc-userDIO-ExtensionDIO",
 		"ver_id": "ko",
 		"title": "Hi7 제어기 기능 설명서 - 사용자DIO, 확장DIO",
@@ -1998,21 +2005,21 @@
 		"ver_id": "english",
 		"title": "Hi7-N Controller Maintenance Manual (PDF) - English",
 		"products": [ "hi7" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/english/Hi7-N251031MMEN1.pdf"
+		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/english/Hi7-N251031MMEN1.pdf"
 	},
 	{
 		"book_id": "doc-hi7-maintenance",
 		"ver_id": "chinese",
 		"title": "Hi7-N Controller Maintenance Manual (PDF) - Chinese",
 		"products": [ "hi7" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/chinese/Hi7-N251031MMCN1.pdf"
+		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/chinese/Hi7-N251031MMCN1.pdf"
 	},
 	{
 		"book_id": "doc-hi7-maintenance",
 		"ver_id": "german",
 		"title": "Hi7-N Controller Maintenance Manual (PDF) - German",
 		"products": [ "hi7" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi6a-n-maintenance/raw/german/Hi7-N251031MMDE1.pdf"
+		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/german/Hi7-N251031MMDE1.pdf"
 	},
 	{
 		"book_id": "doc-safespace2.0",
