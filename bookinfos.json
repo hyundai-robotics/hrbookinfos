@@ -93,7 +93,7 @@
 	{
 		"book_id": "doc-hi6-t-maintenance",
 		"ver_id": "zh",
-		"title": "Hi6-T 控制器 维护手册l",
+		"title": "Hi6-T 控制器 维护手册",
 		"products": [ "hi6" ]
 	},
 	{
@@ -113,7 +113,7 @@
 	{
 		"book_id": "doc-hi7-n-maintenance",
 		"ver_id": "zh",
-		"title": "Hi7-N Controller Maintenance Manual",
+		"title": "Hi7-N 控制器 维护手册",
 		"products": [ "hi7" ],
 		"permission": "public"
 	},
