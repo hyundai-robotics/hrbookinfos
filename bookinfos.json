@@ -111,6 +111,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-hi7-n-maintenance",
+		"ver_id": "zh",
+		"title": "Hi7-N Controller Maintenance Manual",
+		"products": [ "hi7" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-hrscript",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 로봇언어 HRScript",
