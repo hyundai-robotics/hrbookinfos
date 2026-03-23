@@ -233,6 +233,16 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
+		"ver_id": "zh-Hi7",
+		"title": "Hi7 控制器 功能手册 - 工业通讯",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-industrial-communication",
 		"ver_id": "german-Hi7",
 		"title": "Hi7 Controller Function Manual - Industrial communication (German)",
 		"products": [ "hi7" ],
