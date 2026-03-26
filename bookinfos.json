@@ -1896,6 +1896,13 @@
 		"permission": "public"
 	},
 	{
+        "book_id": "doc-hi6-troubleshoot",
+        "ver_id": "en",
+		"title": "Hi6 Controller Troubleshoot Manual",
+		"products": [ "hi6" ],
+		"permission": "public"
+    },
+	{
 		"book_id": "doc-hi6-force-control",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 센서 기반 힘 제어",
@@ -2176,6 +2183,13 @@
         "book_id": "doc-hi7-troubleshoot",
         "ver_id": "ko",
 		"title": "Hi7 제어기 트러블슈팅 매뉴얼",
+		"products": [ "hi7" ],
+		"permission": "public"
+    },
+	{
+        "book_id": "doc-hi7-troubleshoot",
+        "ver_id": "en",
+		"title": "Hi7 Controller Troubleshoot Manual",
 		"products": [ "hi7" ],
 		"permission": "public"
     },
