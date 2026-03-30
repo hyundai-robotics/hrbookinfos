@@ -1447,6 +1447,13 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-safespace2.0",
+		"ver_id": "zh",
+		"title": "功能手册 - SafeSpace 2.0",
+		"products": [ "hi7" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-cooperation",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 협조제어",
