@@ -1425,7 +1425,7 @@
 	{
     "book_id": "doc-hi6-open-api",
 		"ver_id": "zh",
-		"title": "Hi7 控制器 Function Manual - Open API",
+		"title": "Hi7 控制器 功能手册 - Open API",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -1449,7 +1449,7 @@
 	{
 		"book_id": "doc-safespace2.0",
 		"ver_id": "zh",
-		"title": "功能手册 - SafeSpace 2.0",
+		"title": "Hi7 控制器 功能手册 - SafeSpace 2.0",
 		"products": [ "hi7" ],
 		"permission": "public"
 	},
