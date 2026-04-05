@@ -99,23 +99,23 @@
 	{
 		"book_id": "doc-hi7-n-maintenance",
 		"ver_id": "ko",
-		"title": "Hi7-N 제어기 보수 설명서",
+		"title": "Hi7-N 제어기 보수 설명서 (PDF)",
 		"products": [ "hi7" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/korean/Hi7-N251031MMKR1.pdf"
 	},
 	{
 		"book_id": "doc-hi7-n-maintenance",
 		"ver_id": "en",
-		"title": "Hi7-N Controller Maintenance Manual (PDF) - English",
+		"title": "Hi7-N Controller Maintenance Manual (PDF)",
 		"products": [ "hi7" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/english/Hi7-N251031MMEN1.pdf"
 	},
 	{
 		"book_id": "doc-hi7-n-maintenance",
 		"ver_id": "zh",
-		"title": "Hi7-N 控制器 维护手册",
+		"title": "Hi7-N 控制器 维护手册 (PDF)",
 		"products": [ "hi7" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/english/Hi7-N251031MMCN1.pdf"
+		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/chinese/Hi7-N251031MMCN1.pdf"
 	},
 	{
 		"book_id": "doc-hrscript",
@@ -2030,13 +2030,6 @@
 		"title": "Hi7 Controller Operation Manual - TP630 (German)",
 		"products": [ "hi7" ],
 		"permission": "public"
-	},
-	{
-		"book_id": "doc-hi7-maintenance",
-		"ver_id": "chinese",
-		"title": "Hi7-N Controller Maintenance Manual (PDF) - Chinese",
-		"products": [ "hi7" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/chinese/Hi7-N251031MMCN1.pdf"
 	},
 	{
 		"book_id": "doc-hi7-maintenance",
