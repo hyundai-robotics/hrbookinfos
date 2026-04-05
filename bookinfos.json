@@ -101,10 +101,10 @@
 		"ver_id": "ko",
 		"title": "Hi7-N 제어기 보수 설명서",
 		"products": [ "hi7" ],
-		"permission": "public"
+		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/korean/Hi7-N251031MMKR1.pdf"
 	},
 	{
-		"book_id": "doc-hi7-maintenance",
+		"book_id": "doc-hi7-n-maintenance",
 		"ver_id": "en",
 		"title": "Hi7-N Controller Maintenance Manual (PDF) - English",
 		"products": [ "hi7" ],
@@ -115,7 +115,7 @@
 		"ver_id": "zh",
 		"title": "Hi7-N 控制器 维护手册",
 		"products": [ "hi7" ],
-		"permission": "public"
+		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/english/Hi7-N251031MMCN1.pdf"
 	},
 	{
 		"book_id": "doc-hrscript",
