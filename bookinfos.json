@@ -2192,7 +2192,14 @@
 		"title": "Hi7 Controller Troubleshoot Manual",
 		"products": [ "hi7" ],
 		"permission": "public"
-    },
+  },
+	{
+    "book_id": "doc-hi7-troubleshoot",
+    "ver_id": "zh",
+		"title": "Hi7 控制器 - 故障排除",
+		"products": [ "hi7" ],
+		"permission": "public"
+  },
 	{
         "book_id": "doc-open-stream",
         "ver_id": "ko",
