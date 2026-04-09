@@ -111,9 +111,8 @@
 	{
 		"book_id": "doc-hi7-n-maintenance",
 		"ver_id": "zh",
-		"title": "Hi7-N 控制器 维护手册 (PDF)",
-		"products": [ "hi7" ],
-		"url": "https://github.com/hyundai-robotics/doc-hi7-n-maintenance/raw/chinese/Hi7-N251031MMCN1.pdf"
+		"title": "Hi7-N 控制器 维护手册",
+		"products": [ "hi7" ]
 	},
 	{
 		"book_id": "doc-hrscript",
