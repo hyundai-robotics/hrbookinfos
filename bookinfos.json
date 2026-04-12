@@ -1907,6 +1907,13 @@
 		"permission": "public"
     },
 	{
+        "book_id": "doc-hi6-troubleshoot",
+        "ver_id": "zh",
+		"title": "Hi6 控制器 维护手册 - 故障排除",
+		"products": [ "hi6" ],
+		"permission": "public"
+    },
+	{
 		"book_id": "doc-hi6-force-control",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 센서 기반 힘 제어",
