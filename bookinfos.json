@@ -1432,14 +1432,14 @@
 	{
 		"book_id": "doc-safespace2.0",
 		"ver_id": "ko",
-		"title": "SafeSpace2.0 설명서",
+		"title": "Hi7 제어기 기능설명서 - SafeSpace2.0",
 		"products": [ "hi7" ],
 		"permission": "public"
 	},
 	{
 		"book_id": "doc-safespace2.0",
 		"ver_id": "en",
-		"title": "SafeSpace2.0 Manual",
+		"title": "Hi7 Controller Function Manual - SafeSpace2.0",
 		"products": [ "hi7" ],
 		"permission": "public"
 	},
