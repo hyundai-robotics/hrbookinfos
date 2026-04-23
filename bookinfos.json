@@ -114,6 +114,51 @@
 		"title": "Hi7-N 控制器 维护手册",
 		"products": [ "hi7" ]
 	},
+
+
+
+	{
+		"book_id": "doc-hi6-troubleshoot",
+		"ver_id": "ko",
+		"title": "Hi6 제어기 트러블슈팅 매뉴얼",
+		"products": [ "hi6" ],
+		"permission": "public"
+	},
+	{
+        "book_id": "doc-hi6-troubleshoot",
+        "ver_id": "en",
+		"title": "Hi6 Controller Troubleshoot Manual",
+		"products": [ "hi6" ],
+		"permission": "public"
+    },
+	{
+        "book_id": "doc-hi6-troubleshoot",
+        "ver_id": "zh",
+		"title": "Hi6 控制器 维护手册 - 故障排除",
+		"products": [ "hi6" ],
+		"permission": "public"
+    },
+	{
+        "book_id": "doc-hi7-troubleshoot",
+        "ver_id": "ko",
+		"title": "Hi7 제어기 트러블슈팅 매뉴얼",
+		"products": [ "hi7" ],
+		"permission": "public"
+    },
+	{
+        "book_id": "doc-hi7-troubleshoot",
+        "ver_id": "en",
+		"title": "Hi7 Controller Troubleshoot Manual",
+		"products": [ "hi7" ],
+		"permission": "public"
+  	},
+	{
+    	"book_id": "doc-hi7-troubleshoot",
+    	"ver_id": "zh",
+		"title": "Hi7 控制器 - 故障排除",
+		"products": [ "hi7" ],
+		"permission": "public"
+	},
 	{
 		"book_id": "doc-hrscript",
 		"ver_id": "ko",
@@ -1893,27 +1938,6 @@
       }
 	},
 	{
-		"book_id": "doc-hi6-troubleshoot",
-		"ver_id": "ko",
-		"title": "Hi6 제어기 트러블슈팅 매뉴얼",
-		"products": [ "hi6" ],
-		"permission": "public"
-	},
-	{
-        "book_id": "doc-hi6-troubleshoot",
-        "ver_id": "en",
-		"title": "Hi6 Controller Troubleshoot Manual",
-		"products": [ "hi6" ],
-		"permission": "public"
-    },
-	{
-        "book_id": "doc-hi6-troubleshoot",
-        "ver_id": "zh",
-		"title": "Hi6 控制器 维护手册 - 故障排除",
-		"products": [ "hi6" ],
-		"permission": "public"
-    },
-	{
 		"book_id": "doc-hi6-force-control",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 센서 기반 힘 제어",
@@ -2183,27 +2207,6 @@
         	"cont_model": "Hi7"
       }
     },
-	{
-        "book_id": "doc-hi7-troubleshoot",
-        "ver_id": "ko",
-		"title": "Hi7 제어기 트러블슈팅 매뉴얼",
-		"products": [ "hi7" ],
-		"permission": "public"
-    },
-	{
-        "book_id": "doc-hi7-troubleshoot",
-        "ver_id": "en",
-		"title": "Hi7 Controller Troubleshoot Manual",
-		"products": [ "hi7" ],
-		"permission": "public"
-  },
-	{
-    "book_id": "doc-hi7-troubleshoot",
-    "ver_id": "zh",
-		"title": "Hi7 控制器 - 故障排除",
-		"products": [ "hi7" ],
-		"permission": "public"
-  },
 	{
         "book_id": "doc-open-stream",
         "ver_id": "ko",
