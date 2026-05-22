@@ -937,14 +937,14 @@
 	},
 	{
 		"book_id": "doc-cobot-safety-function",
-		"ver_id": "korean",
+		"ver_id": "ko",
 		"title": "협동로봇 안전 기능 설명서",
-		"products": [ "hi6" ],
+		"products": [ "hi7" ],
 		"permission": "public"
 	},
 	{
 		"book_id": "doc-cobot-maintenance",
-		"ver_id": "korean",
+		"ver_id": "en",
 		"title": "협동로봇 보수 설명서",
 		"products": [ "hi6" ],
 		"permission": "public"
