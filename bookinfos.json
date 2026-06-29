@@ -2308,5 +2308,25 @@
 		"variables": {
 			"cont_model": "Hi7"
 		}
+	},
+	{
+		"book_id": "doc-plasma-cutting",
+		"ver_id": "ko",
+		"title": "Hi6 제어기 기능 설명서 - 플라즈마 절단",
+		"products": [ "hi6" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi6"
+		}
+	},
+	{
+		"book_id": "doc-plasma-cutting",
+		"ver_id": "ko",
+		"title": "Hi7 제어기 기능 설명서 - 플라즈마 절단",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	}
 ]
