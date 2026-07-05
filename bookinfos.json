@@ -1496,6 +1496,20 @@
 		"permission": "public"
 	},
 	{
+		"book_id": "doc-hrsafespace2",
+		"ver_id": "ko",
+		"title": "HRSafeSpace2 설명서",
+		"products": [ "hi7" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-hrsafespace2",
+		"ver_id": "en",
+		"title": "HRSafeSpace2 설명서",
+		"products": [ "hi7" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-cooperation",
 		"ver_id": "ko",
 		"title": "Hi6 제어기 기능 설명서 - 협조제어",
