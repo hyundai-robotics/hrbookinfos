@@ -2342,5 +2342,25 @@
 		"variables": {
 			"cont_model": "Hi7"
 		}
+	},
+	{
+		"book_id": "doc-Object-Detection-System",
+		"ver_id": "ko",
+		"title": "Hi7 제어기 기능 설명서 - 레이더 객체 감지 시스템",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-Object-Detection-System",
+		"ver_id": "en",
+		"title": "Hi7 Controller Function Manual - Radar Object Detection System",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	}
 ]
