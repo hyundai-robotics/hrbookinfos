@@ -214,6 +214,20 @@
 		}
 	},
 	{
+		"book_id": "doc-hrworkbench",
+		"ver_id": "ko",
+		"title": "HRWorkBench 기능 설명서",
+		"products": [ "hi6", "hi7" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-hrworkbench",
+		"ver_id": "en",
+		"title": "HRWorkBench Function Manual",
+		"products": [ "hi6", "hi7" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-industrial-communication",
 		"ver_id": "ko-Hi6",
 		"title": "Hi6 제어기 기능 설명서 - 산업용 통신",
