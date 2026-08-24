@@ -2376,5 +2376,25 @@
 		"variables": {
 			"cont_model": "Hi7"
 		}
+	},
+	{
+		"book_id": "doc-hdc035-operation",
+		"ver_id": "ko",
+		"title": "Hi7 제어기 기능 설명서 - 협동로봇 안전 기능",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
+	},
+	{
+		"book_id": "doc-hdc035-operation",
+		"ver_id": "en",
+		"title": "Hi7 Controller Function Manual - Safety Function Manual for Collaborative Robot",
+		"products": [ "hi7" ],
+		"permission": "public",
+		"variables": {
+			"cont_model": "Hi7"
+		}
 	}
 ]
