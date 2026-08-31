@@ -997,7 +997,7 @@
 	{
 		"book_id": "doc-cobot-safety-function",
 		"ver_id": "ko",
-		"title": "협동로봇 안전 기능 설명서",
+		"title": "협동로봇 안전 기능 설명서 - YL 시리즈 (단종)",
 		"products": [ "hi7" ],
 		"permission": "public"
 	},
@@ -2380,7 +2380,7 @@
 	{
 		"book_id": "doc-cobot-operation",
 		"ver_id": "ko",
-		"title": "Hi7 제어기 기능 설명서 - 협동로봇 안전 기능 설명서",
+		"title": "Hi7 제어기 기능 설명서 - 협동로봇 안전 기능 설명서 - HDC 시리즈",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
@@ -2390,7 +2390,7 @@
 	{
 		"book_id": "doc-cobot-operation",
 		"ver_id": "en",
-		"title": "Hi7 Controller Function Manual - Safety Function Manual for Collaborative Robot",
+		"title": "Hi7 Controller Function Manual - Safety Function Manual for Collaborative Robot - HDC Series",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
