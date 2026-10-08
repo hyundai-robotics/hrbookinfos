@@ -903,7 +903,7 @@
 	},
 	{
 		"book_id": "doc-hi5a-operation",
-		"ver_id": "korean",
+		"ver_id": "ko",
 		"title": "Hi5a 제어기 조작 설명서",
 		"products": [ "hi5a" ],
 		"url": "https://github.com/hyundai-robotics/doc-hi5a-operation/raw/korean/Hi5a-S210401OMKR9.pdf"
@@ -924,13 +924,13 @@
 	},
 	{
 		"book_id": "doc-hi5a-task-daemon",
-		"ver_id": "korean",
+		"ver_id": "ko",
 		"title": "Hi5a 제어기 기능 설명서 - 태스크 데몬 (Task Daemon)",
 		"products": [ "hi5a" ]
 	},
 	{
 		"book_id": "doc-hi5a-task-daemon",
-		"ver_id": "english",
+		"ver_id": "en",
 		"title": "Hi5a Controller Function Manual - Task Daemon",
 		"products": [ "hi5a" ]
 	},
