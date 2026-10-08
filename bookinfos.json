@@ -2291,13 +2291,13 @@
     },
 	{
 		"book_id": "doc-hi6-operation",
-		"ver_id": "korean-tp600",
+		"ver_id": "ko-tp600",
 		"title": "Hi6 제어기 조작 설명서 - TP600",
 		"products": [ "hi6" ]
 	},
 	{
 		"book_id": "doc-hi6-operation",
-		"ver_id": "english-tp600",
+		"ver_id": "en-tp600",
 		"title": "Hi6 Controller Operation Manual - TP600",
 		"products": [ "hi6" ]
 	},
