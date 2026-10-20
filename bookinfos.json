@@ -249,18 +249,8 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "german-Hi6",
+		"ver_id": "de-Hi6",
 		"title": "Hi6 Controller Function Manual - Industrial communication (German)",
-		"products": [ "hi6" ],
-		"permission": "public",
-		"variables": {
-			"cont_model": "Hi6"
-		}
-	},
-	{
-		"book_id": "doc-industrial-communication",
-		"ver_id": "chinese-Hi6",
-		"title": "Hi6 Controller Function Manual - Industrial communication (Chinese)",
 		"products": [ "hi6" ],
 		"permission": "public",
 		"variables": {
@@ -299,18 +289,8 @@
 	},
 	{
 		"book_id": "doc-industrial-communication",
-		"ver_id": "german-Hi7",
+		"ver_id": "de-Hi7",
 		"title": "Hi7 Controller Function Manual - Industrial communication (German)",
-		"products": [ "hi7" ],
-		"permission": "public",
-		"variables": {
-			"cont_model": "Hi7"
-		}
-	},
-	{
-		"book_id": "doc-industrial-communication",
-		"ver_id": "chinese-Hi7",
-		"title": "Hi7 Controller Function Manual - Industrial communication (Chinese)",
 		"products": [ "hi7" ],
 		"permission": "public",
 		"variables": {
