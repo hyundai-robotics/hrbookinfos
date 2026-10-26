@@ -1469,6 +1469,20 @@
       }
 	},
 	{
+		"book_id": "doc-hrspace-mx",
+		"ver_id": "ko",
+		"title": "기능설명서 - HRSpace4 확장 모델",
+		"products": [ "common" ],
+		"permission": "public"
+	},
+	{
+		"book_id": "doc-hrspace-mx",
+		"ver_id": "en",
+		"title": "Function Manual - HRSpace4 Extension Model",
+		"products": [ "common" ],
+		"permission": "public"
+	},
+	{
 		"book_id": "doc-safespace2.0",
 		"ver_id": "ko",
 		"title": "SafeSpace2.0 설명서",
